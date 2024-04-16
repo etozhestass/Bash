@@ -1,0 +1,1261 @@
+19.12.2023 19:44:16
+MiB Mem :  15383,8 total,   8780,8 free,   6213,0 used,    390,0 buff/cache
+MiB Swap:   2048,0 total,   1317,7 free,    730,3 used.   8889,2 avail Mem 
+  18500 etozhes+  20   0 5601316   5,3g   3284 R 100,0  35,5   0:36.97 mem.bash
+  18793 etozhes+  20   0   41844  35528   3012 R 100,0   0,2   0:00.15 mem.bash
+   5629 etozhes+  20   0 4708044   3880      0 R 100,0   0,0  11:35.56 notepad+
+  18500 etozhes+  20   0 5601316   5,3g   3284 R 100,0  35,5   0:36.97 mem.bash
+  18793 etozhes+  20   0   41844  35528   3012 R 100,0   0,2   0:00.15 mem.bash
+   2074 etozhes+  20   0 4004308  20904   9372 S   6,7   0,1  10:06.77 Xorg
+      1 root      20   0  169816   6224   3928 S   0,0   0,0   0:03.53 systemd
+
+19.12.2023 19:44:17
+MiB Mem :  15383,8 total,   8396,4 free,   6597,4 used,    390,0 buff/cache
+MiB Swap:   2048,0 total,   1317,7 free,    730,3 used.   8504,8 avail Mem 
+  18500 etozhes+  20   0 5800292   5,5g   3284 R  93,8  36,8   0:38.13 mem.bash
+  18793 etozhes+  20   0  240452 234056   3012 R  93,8   1,5   0:01.31 mem.bash
+   5629 etozhes+  20   0 4708044   3880      0 R  93,8   0,0  11:36.73 notepad+
+  18500 etozhes+  20   0 5800292   5,5g   3284 R  93,8  36,8   0:38.13 mem.bash
+  18793 etozhes+  20   0  240452 234056   3012 R  93,8   1,5   0:01.31 mem.bash
+    230 root     -51   0       0      0      0 S   6,2   0,0   2:23.84 irq/33-+
+      1 root      20   0  169816   6224   3928 S   0,0   0,0   0:03.53 systemd
+
+19.12.2023 19:44:19
+MiB Mem :  15383,8 total,   8019,6 free,   6974,2 used,    390,0 buff/cache
+MiB Swap:   2048,0 total,   1317,7 free,    730,3 used.   8128,0 avail Mem 
+  18500 etozhes+  20   0 5991640   5,7g   3284 R 100,0  38,0   0:39.30 mem.bash
+  18793 etozhes+  20   0  432724 426512   3012 R  93,8   2,7   0:02.48 mem.bash
+   5629 etozhes+  20   0 4708044   3880      0 R 100,0   0,0  11:37.90 notepad+
+  18500 etozhes+  20   0 5991640   5,7g   3284 R 100,0  38,0   0:39.30 mem.bash
+  18793 etozhes+  20   0  432724 426512   3012 R  93,8   2,7   0:02.48 mem.bash
+     14 root      20   0       0      0      0 I   6,2   0,0   0:11.40 rcu_sch+
+  10570 etozhes+  20   0 1214256  35996  17072 S   6,2   0,2   0:19.66 nautilus
+
+19.12.2023 19:44:20
+MiB Mem :  15383,8 total,   7639,5 free,   7354,3 used,    390,0 buff/cache
+MiB Swap:   2048,0 total,   1318,0 free,    730,0 used.   7747,9 avail Mem 
+  18793 etozhes+  20   0  624044 617648   3012 R 100,0   3,9   0:03.65 mem.bash
+  18500 etozhes+  20   0 6190748   5,9g   3284 R  93,3  39,3   0:40.46 mem.bash
+   5629 etozhes+  20   0 4708044   3880      0 R 106,7   0,0  11:39.06 notepad+
+  18793 etozhes+  20   0  624044 617648   3012 R 100,0   3,9   0:03.65 mem.bash
+  18500 etozhes+  20   0 6190748   5,9g   3284 R  93,3  39,3   0:40.46 mem.bash
+   2294 etozhes+  20   0 5823616  94268  27832 S   6,7   0,6   9:15.76 gnome-s+
+      1 root      20   0  169816   6224   3928 S   0,0   0,0   0:03.53 systemd
+
+19.12.2023 19:44:21
+MiB Mem :  15383,8 total,   7534,6 free,   7459,2 used,    390,0 buff/cache
+MiB Swap:   2048,0 total,   1318,0 free,    730,0 used.   7643,0 avail Mem 
+  18793 etozhes+  20   0  677004 670712   3012 R 100,0   4,3   0:04.88 mem.bash
+  18500 etozhes+  20   0 6244892   5,9g   3284 R  89,5  39,6   0:41.69 mem.bash
+  18793 etozhes+  20   0  677004 670712   3012 R 100,0   4,3   0:04.88 mem.bash
+   5629 etozhes+  20   0 4708044   3880      0 R  89,5   0,0  11:40.28 notepad+
+  18500 etozhes+  20   0 6244892   5,9g   3284 R  89,5  39,6   0:41.69 mem.bash
+  18841 etozhes+  20   0   11992   3860   3136 R  21,1   0,0   0:00.07 top
+   2074 etozhes+  20   0 4004308  20904   9372 S   5,3   0,1  10:06.80 Xorg
+
+19.12.2023 19:44:22
+MiB Mem :  15383,8 total,   7135,2 free,   7858,6 used,    390,0 buff/cache
+MiB Swap:   2048,0 total,   1318,0 free,    730,0 used.   7243,6 avail Mem 
+  18500 etozhes+  20   0 6453928   6,1g   3284 R 100,0  40,9   0:42.87 mem.bash
+  18793 etozhes+  20   0  874792 868448   3012 R  93,8   5,5   0:06.05 mem.bash
+  18500 etozhes+  20   0 6453928   6,1g   3284 R 100,0  40,9   0:42.87 mem.bash
+   5629 etozhes+  20   0 4708044   3880      0 R  93,8   0,0  11:41.46 notepad+
+  18793 etozhes+  20   0  874792 868448   3012 R  93,8   5,5   0:06.05 mem.bash
+   2294 etozhes+  20   0 5823616  94332  27832 S   6,2   0,6   9:15.79 gnome-s+
+      1 root      20   0  169816   6224   3928 S   0,0   0,0   0:03.53 systemd
+
+19.12.2023 19:44:23
+MiB Mem :  15383,8 total,   6777,2 free,   8216,7 used,    390,0 buff/cache
+MiB Swap:   2048,0 total,   1318,2 free,    729,8 used.   6885,6 avail Mem 
+  18793 etozhes+  20   0 1066536   1,0g   3012 R 100,0   6,7   0:07.22 mem.bash
+  18500 etozhes+  20   0 6631124   6,3g   3284 R  93,8  42,1   0:44.03 mem.bash
+   5629 etozhes+  20   0 4708044   3880      0 R 100,0   0,0  11:42.64 notepad+
+  18793 etozhes+  20   0 1066536   1,0g   3012 R 100,0   6,7   0:07.22 mem.bash
+  18500 etozhes+  20   0 6631124   6,3g   3284 R  93,8  42,1   0:44.03 mem.bash
+   2294 etozhes+  20   0 5823616  94680  27832 S   6,2   0,6   9:15.80 gnome-s+
+  10570 etozhes+  20   0 1214256  36468  17336 S   6,2   0,2   0:19.73 nautilus
+
+19.12.2023 19:44:24
+MiB Mem :  15383,8 total,   6405,0 free,   8588,9 used,    390,0 buff/cache
+MiB Swap:   2048,0 total,   1318,2 free,    729,8 used.   6513,4 avail Mem 
+  18500 etozhes+  20   0 6822048   6,5g   3284 R 100,0  43,3   0:45.20 mem.bash
+  18793 etozhes+  20   0 1254956   1,2g   3012 R 100,0   7,9   0:08.38 mem.bash
+   5629 etozhes+  20   0 4708044   3880      0 R 100,0   0,0  11:43.80 notepad+
+  18500 etozhes+  20   0 6822048   6,5g   3284 R 100,0  43,3   0:45.20 mem.bash
+  18793 etozhes+  20   0 1254956   1,2g   3012 R 100,0   7,9   0:08.38 mem.bash
+   2294 etozhes+  20   0 5823616  94680  27832 S   6,7   0,6   9:15.81 gnome-s+
+      1 root      20   0  169816   6224   3928 S   0,0   0,0   0:03.53 systemd
+
+19.12.2023 19:44:26
+MiB Mem :  15383,8 total,   6223,1 free,   8770,7 used,    390,0 buff/cache
+MiB Swap:   2048,0 total,   1318,2 free,    729,8 used.   6331,5 avail Mem 
+  18793 etozhes+  20   0 1349360   1,3g   3012 R 100,0   8,5   0:09.61 mem.bash
+  18500 etozhes+  20   0 6915820   6,6g   3284 R  94,4  43,9   0:46.43 mem.bash
+   5629 etozhes+  20   0 4708044   3880      0 R 100,0   0,0  11:45.03 notepad+
+  18793 etozhes+  20   0 1349360   1,3g   3012 R 100,0   8,5   0:09.61 mem.bash
+  18500 etozhes+  20   0 6915820   6,6g   3284 R  94,4  43,9   0:46.43 mem.bash
+  10570 etozhes+  20   0 1214256  36468  17336 S  22,2   0,2   0:19.81 nautilus
+  18885 etozhes+  20   0   11992   3888   3164 R  16,7   0,0   0:00.07 top
+
+19.12.2023 19:44:27
+MiB Mem :  15383,8 total,   6173,2 free,   8820,7 used,    390,0 buff/cache
+MiB Swap:   2048,0 total,   1318,2 free,    729,8 used.   6281,6 avail Mem 
+  18793 etozhes+  20   0 1383444   1,3g   3012 R  94,4   8,7   0:10.88 mem.bash
+  18500 etozhes+  20   0 6929812   6,6g   3284 R  88,9  44,0   0:47.69 mem.bash
+   5629 etozhes+  20   0 4708044   3880      0 R  94,4   0,0  11:46.29 notepad+
+  18793 etozhes+  20   0 1383444   1,3g   3012 R  94,4   8,7   0:10.88 mem.bash
+  18500 etozhes+  20   0 6929812   6,6g   3284 R  88,9  44,0   0:47.69 mem.bash
+  18896 etozhes+  20   0   11992   3760   3040 R  11,1   0,0   0:00.05 top
+   2294 etozhes+  20   0 5823616  94680  27832 S   5,6   0,6   9:15.87 gnome-s+
+
+19.12.2023 19:44:28
+MiB Mem :  15383,8 total,   5811,4 free,   9182,4 used,    390,0 buff/cache
+MiB Swap:   2048,0 total,   1318,2 free,    729,8 used.   5919,8 avail Mem 
+  18500 etozhes+  20   0 7125492   6,8g   3284 R  93,8  45,2   0:48.86 mem.bash
+  18793 etozhes+  20   0 1557472   1,5g   3012 R  93,8   9,8   0:12.04 mem.bash
+   5629 etozhes+  20   0 4708044   3880      0 R 100,0   0,0  11:47.46 notepad+
+  18500 etozhes+  20   0 7125492   6,8g   3284 R  93,8  45,2   0:48.86 mem.bash
+  18793 etozhes+  20   0 1557472   1,5g   3012 R  93,8   9,8   0:12.04 mem.bash
+      1 root      20   0  169816   6224   3928 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+
+19.12.2023 19:44:29
+MiB Mem :  15383,8 total,   5426,0 free,   9567,8 used,    390,0 buff/cache
+MiB Swap:   2048,0 total,   1318,2 free,    729,8 used.   5534,4 avail Mem 
+  18500 etozhes+  20   0 7325416   7,0g   3284 R 100,0  46,5   0:50.03 mem.bash
+  18793 etozhes+  20   0 1750904   1,7g   3012 R 100,0  11,1   0:13.20 mem.bash
+  18500 etozhes+  20   0 7325416   7,0g   3284 R 100,0  46,5   0:50.03 mem.bash
+   5629 etozhes+  20   0 4708044   3880      0 R 100,0   0,0  11:48.63 notepad+
+  18793 etozhes+  20   0 1750904   1,7g   3012 R 100,0  11,1   0:13.20 mem.bash
+      1 root      20   0  169816   6224   3928 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+
+19.12.2023 19:44:31
+MiB Mem :  15383,8 total,   5208,7 free,   9785,1 used,    390,0 buff/cache
+MiB Swap:   2048,0 total,   1318,2 free,    729,8 used.   5317,1 avail Mem 
+  18793 etozhes+  20   0 1863952   1,8g   3012 R  94,7  11,8   0:14.44 mem.bash
+  18500 etozhes+  20   0 7434476   7,1g   3284 R  89,5  47,2   0:51.25 mem.bash
+   5629 etozhes+  20   0 4708044   3880      0 R  94,7   0,0  11:49.86 notepad+
+  18793 etozhes+  20   0 1863952   1,8g   3012 R  94,7  11,8   0:14.44 mem.bash
+  18500 etozhes+  20   0 7434476   7,1g   3284 R  89,5  47,2   0:51.25 mem.bash
+  18929 etozhes+  20   0   11992   3860   3140 R  15,8   0,0   0:00.06 top
+  16395 root      20   0       0      0      0 I   5,3   0,0   0:02.36 kworker+
+
+19.12.2023 19:44:32
+MiB Mem :  15383,8 total,   5162,0 free,   9831,9 used,    390,0 buff/cache
+MiB Swap:   2048,0 total,   1318,2 free,    729,8 used.   5270,4 avail Mem 
+  18500 etozhes+  20   0 7457972   7,1g   3284 R  94,7  47,3   0:52.52 mem.bash
+  18793 etozhes+  20   0 1887316   1,8g   3012 R  89,5  11,9   0:15.70 mem.bash
+   5629 etozhes+  20   0 4708044   3880      0 R  94,7   0,0  11:51.12 notepad+
+  18500 etozhes+  20   0 7457972   7,1g   3284 R  94,7  47,3   0:52.52 mem.bash
+  18793 etozhes+  20   0 1887316   1,8g   3012 R  89,5  11,9   0:15.70 mem.bash
+  18940 etozhes+  20   0   11992   3892   3168 R  21,1   0,0   0:00.07 top
+  16199 root      20   0       0      0      0 I   5,3   0,0   0:23.71 kworker+
+
+19.12.2023 19:44:33
+MiB Mem :  15383,8 total,   4809,7 free,  10184,1 used,    390,0 buff/cache
+MiB Swap:   2048,0 total,   1318,2 free,    729,8 used.   4918,2 avail Mem 
+  18793 etozhes+  20   0 2061608   2,0g   3012 R 100,0  13,0   0:16.91 mem.bash
+  18500 etozhes+  20   0 7642324   7,3g   3284 R  93,3  48,5   0:53.72 mem.bash
+   5629 etozhes+  20   0 4708044   3880      0 R 106,7   0,0  11:52.33 notepad+
+  18793 etozhes+  20   0 2061608   2,0g   3012 R 100,0  13,0   0:16.91 mem.bash
+  18500 etozhes+  20   0 7642324   7,3g   3284 R  93,3  48,5   0:53.72 mem.bash
+  18952 etozhes+  20   0   11992   3724   3000 R   6,7   0,0   0:00.01 top
+      1 root      20   0  169816   6224   3928 S   0,0   0,0   0:03.53 systemd
+
+19.12.2023 19:44:34
+MiB Mem :  15383,8 total,   4444,3 free,  10549,5 used,    390,0 buff/cache
+MiB Swap:   2048,0 total,   1318,5 free,    729,5 used.   4552,7 avail Mem 
+  18500 etozhes+  20   0 7820312   7,5g   3284 R 100,0  49,6   0:54.89 mem.bash
+  18793 etozhes+  20   0 2255068   2,1g   3012 R 100,0  14,3   0:18.07 mem.bash
+   5629 etozhes+  20   0 4708044   3880      0 R 106,7   0,0  11:53.49 notepad+
+  18500 etozhes+  20   0 7820312   7,5g   3284 R 100,0  49,6   0:54.89 mem.bash
+  18793 etozhes+  20   0 2255068   2,1g   3012 R 100,0  14,3   0:18.07 mem.bash
+  10570 etozhes+  20   0 1214256  36676  17336 S   6,7   0,2   0:19.96 nautilus
+      1 root      20   0  169816   6224   3928 S   0,0   0,0   0:03.53 systemd
+
+19.12.2023 19:44:35
+MiB Mem :  15383,8 total,   4173,8 free,  10820,0 used,    390,0 buff/cache
+MiB Swap:   2048,0 total,   1318,5 free,    729,5 used.   4282,2 avail Mem 
+  18793 etozhes+  20   0 2392768   2,3g   3012 R 100,0  15,1   0:19.31 mem.bash
+  18500 etozhes+  20   0 7959228   7,6g   3284 R  89,5  50,5   0:56.12 mem.bash
+  18793 etozhes+  20   0 2392768   2,3g   3012 R 100,0  15,1   0:19.31 mem.bash
+   5629 etozhes+  20   0 4708044   3880      0 R  94,7   0,0  11:54.72 notepad+
+  18500 etozhes+  20   0 7959228   7,6g   3284 R  89,5  50,5   0:56.12 mem.bash
+  18974 etozhes+  20   0   11992   3892   3168 R  21,1   0,0   0:00.07 top
+      1 root      20   0  169816   6224   3928 S   0,0   0,0   0:03.53 systemd
+
+19.12.2023 19:44:37
+MiB Mem :  15383,8 total,   4134,6 free,  10859,2 used,    390,0 buff/cache
+MiB Swap:   2048,0 total,   1318,5 free,    729,5 used.   4243,0 avail Mem 
+  18793 etozhes+  20   0 2413388   2,3g   3012 R  94,7  15,3   0:20.57 mem.bash
+  18500 etozhes+  20   0 7977972   7,6g   3284 R  89,5  50,6   0:57.38 mem.bash
+   5629 etozhes+  20   0 4708044   3880      0 R  94,7   0,0  11:55.99 notepad+
+  18793 etozhes+  20   0 2413388   2,3g   3012 R  94,7  15,3   0:20.57 mem.bash
+  18500 etozhes+  20   0 7977972   7,6g   3284 R  89,5  50,6   0:57.38 mem.bash
+  18985 etozhes+  20   0   11992   3884   3164 R  15,8   0,0   0:00.07 top
+  17097 root      20   0       0      0      0 I   5,3   0,0   0:11.97 kworker+
+
+19.12.2023 19:44:38
+MiB Mem :  15383,8 total,   3827,5 free,  11166,3 used,    390,0 buff/cache
+MiB Swap:   2048,0 total,   1318,5 free,    729,5 used.   3935,9 avail Mem 
+  18500 etozhes+  20   0 8133388   7,8g   3284 R 100,0  51,6   0:58.60 mem.bash
+  18793 etozhes+  20   0 2571972   2,4g   3012 R  93,8  16,3   0:21.77 mem.bash
+  18500 etozhes+  20   0 8133388   7,8g   3284 R 100,0  51,6   0:58.60 mem.bash
+   5629 etozhes+  20   0 4708044   3880      0 R  93,8   0,0  11:57.19 notepad+
+  18793 etozhes+  20   0 2571972   2,4g   3012 R  93,8  16,3   0:21.77 mem.bash
+  18996 etozhes+  20   0   11992   3764   3044 R   6,2   0,0   0:00.01 top
+      1 root      20   0  169816   6224   3928 S   0,0   0,0   0:03.53 systemd
+
+19.12.2023 19:44:39
+MiB Mem :  15383,8 total,   3455,9 free,  11537,9 used,    390,0 buff/cache
+MiB Swap:   2048,0 total,   1318,5 free,    729,5 used.   3564,3 avail Mem 
+  18500 etozhes+  20   0 8327216   7,9g   3284 R 100,0  52,8   0:59.76 mem.bash
+  18793 etozhes+  20   0 2758540   2,6g   3012 R 100,0  17,5   0:22.94 mem.bash
+   5629 etozhes+  20   0 4708044   3880      0 R 106,7   0,0  11:58.37 notepad+
+  18500 etozhes+  20   0 8327216   7,9g   3284 R 100,0  52,8   0:59.76 mem.bash
+  18793 etozhes+  20   0 2758540   2,6g   3012 R 100,0  17,5   0:22.94 mem.bash
+      1 root      20   0  169816   6224   3928 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+
+19.12.2023 19:44:40
+MiB Mem :  15383,8 total,   3151,2 free,  11842,6 used,    390,0 buff/cache
+MiB Swap:   2048,0 total,   1318,5 free,    729,5 used.   3259,6 avail Mem 
+  18500 etozhes+  20   0 8482368   8,1g   3284 R 100,0  53,8   1:00.99 mem.bash
+  18793 etozhes+  20   0 2913692   2,8g   3012 R 100,0  18,5   0:24.17 mem.bash
+   5629 etozhes+  20   0 4708044   3880      0 R 100,0   0,0  11:59.59 notepad+
+  18500 etozhes+  20   0 8482368   8,1g   3284 R 100,0  53,8   1:00.99 mem.bash
+  18793 etozhes+  20   0 2913692   2,8g   3012 R 100,0  18,5   0:24.17 mem.bash
+  19018 etozhes+  20   0   11992   3932   3212 R  22,2   0,0   0:00.07 top
+      1 root      20   0  169816   6224   3928 S   0,0   0,0   0:03.53 systemd
+
+19.12.2023 19:44:42
+MiB Mem :  15383,8 total,   3095,8 free,  11898,0 used,    390,0 buff/cache
+MiB Swap:   2048,0 total,   1318,5 free,    729,5 used.   3204,2 avail Mem 
+  18500 etozhes+  20   0 8513812   8,1g   3284 R  94,7  54,0   1:02.25 mem.bash
+  18793 etozhes+  20   0 2937188   2,8g   3012 R  94,7  18,6   0:25.44 mem.bash
+   5629 etozhes+  20   0 4708044   3880      0 R 100,0   0,0  12:00.86 notepad+
+  18500 etozhes+  20   0 8513812   8,1g   3284 R  94,7  54,0   1:02.25 mem.bash
+  18793 etozhes+  20   0 2937188   2,8g   3012 R  94,7  18,6   0:25.44 mem.bash
+  19029 etozhes+  20   0   11992   3828   3108 R  15,8   0,0   0:00.06 top
+      1 root      20   0  169816   6224   3928 S   0,0   0,0   0:03.53 systemd
+
+19.12.2023 19:44:43
+MiB Mem :  15383,8 total,   2838,1 free,  12155,7 used,    390,0 buff/cache
+MiB Swap:   2048,0 total,   1318,5 free,    729,5 used.   2946,6 avail Mem 
+  18500 etozhes+  20   0 8639236   8,2g   3284 R  93,8  54,8   1:03.46 mem.bash
+  18793 etozhes+  20   0 3073464   2,9g   3012 R  93,8  19,5   0:26.64 mem.bash
+   5629 etozhes+  20   0 4708044   3880      0 R  93,8   0,0  12:02.06 notepad+
+  18500 etozhes+  20   0 8639236   8,2g   3284 R  93,8  54,8   1:03.46 mem.bash
+  18793 etozhes+  20   0 3073464   2,9g   3012 R  93,8  19,5   0:26.64 mem.bash
+  19040 etozhes+  20   0   11992   3740   3020 R   6,2   0,0   0:00.01 top
+      1 root      20   0  169816   6224   3928 S   0,0   0,0   0:03.53 systemd
+
+19.12.2023 19:44:44
+MiB Mem :  15383,8 total,   2461,4 free,  12532,4 used,    390,0 buff/cache
+MiB Swap:   2048,0 total,   1318,7 free,    729,3 used.   2569,8 avail Mem 
+  18793 etozhes+  20   0 3266924   3,1g   3012 R 100,0  20,7   0:27.81 mem.bash
+  18500 etozhes+  20   0 8830848   8,4g   3284 R 100,0  56,0   1:04.63 mem.bash
+   5629 etozhes+  20   0 4708044   3880      0 R 113,3   0,0  12:03.24 notepad+
+  18793 etozhes+  20   0 3266924   3,1g   3012 R 100,0  20,7   0:27.81 mem.bash
+  18500 etozhes+  20   0 8830848   8,4g   3284 R 100,0  56,0   1:04.63 mem.bash
+      1 root      20   0  169816   6224   3928 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+
+19.12.2023 19:44:45
+MiB Mem :  15383,8 total,   2130,2 free,  12863,6 used,    390,0 buff/cache
+MiB Swap:   2048,0 total,   1319,0 free,    729,0 used.   2238,6 avail Mem 
+  18500 etozhes+  20   0 9000916   8,6g   3284 R 100,0  57,1   1:05.82 mem.bash
+  18793 etozhes+  20   0 3443328   3,3g   3012 R 100,0  21,8   0:29.00 mem.bash
+  18500 etozhes+  20   0 9000916   8,6g   3284 R 100,0  57,1   1:05.82 mem.bash
+  18793 etozhes+  20   0 3443328   3,3g   3012 R 100,0  21,8   0:29.00 mem.bash
+   5629 etozhes+  20   0 4708044   3880      0 R 113,3   0,0  12:04.41 notepad+
+  10570 etozhes+  20   0 1214256  37076  17336 S  26,7   0,2   0:20.27 nautilus
+  19062 etozhes+  20   0   11992   3864   3140 R  20,0   0,0   0:00.03 top
+
+19.12.2023 19:44:46
+MiB Mem :  15383,8 total,   2092,7 free,  12901,0 used,    390,0 buff/cache
+MiB Swap:   2048,0 total,   1319,0 free,    729,0 used.   2201,2 avail Mem 
+  18793 etozhes+  20   0 3458244   3,3g   3012 R 100,0  21,9   0:30.27 mem.bash
+  18500 etozhes+  20   0 9024280   8,6g   3284 R 100,0  57,2   1:07.09 mem.bash
+  18793 etozhes+  20   0 3458244   3,3g   3012 R 100,0  21,9   0:30.27 mem.bash
+   5629 etozhes+  20   0 4708044   3880      0 R 100,0   0,0  12:05.69 notepad+
+  18500 etozhes+  20   0 9024280   8,6g   3284 R 100,0  57,2   1:07.09 mem.bash
+  19073 etozhes+  20   0   11992   3748   3028 R  11,1   0,0   0:00.06 top
+      1 root      20   0  169816   6224   3928 S   0,0   0,0   0:03.53 systemd
+
+19.12.2023 19:44:48
+MiB Mem :  15383,8 total,   1860,1 free,  13133,7 used,    390,1 buff/cache
+MiB Swap:   2048,0 total,   1319,0 free,    729,0 used.   1968,6 avail Mem 
+  18793 etozhes+  20   0 3575092   3,4g   3012 R 100,0  22,7   0:31.47 mem.bash
+  18500 etozhes+  20   0 9147620   8,7g   3284 R 100,0  58,0   1:08.29 mem.bash
+  18793 etozhes+  20   0 3575092   3,4g   3012 R 100,0  22,7   0:31.47 mem.bash
+   5629 etozhes+  20   0 4708044   3880      0 R 100,0   0,0  12:06.89 notepad+
+  18500 etozhes+  20   0 9147620   8,7g   3284 R 100,0  58,0   1:08.29 mem.bash
+   2294 etozhes+  20   0 5823616  97452  30064 S   6,7   0,6   9:16.06 gnome-s+
+      1 root      20   0  169816   6224   3928 S   0,0   0,0   0:03.53 systemd
+
+19.12.2023 19:44:49
+MiB Mem :  15383,8 total,   1500,0 free,  13493,7 used,    390,1 buff/cache
+MiB Swap:   2048,0 total,   1319,0 free,    729,0 used.   1608,5 avail Mem 
+  18793 etozhes+  20   0 3762612   3,6g   3012 R 100,0  23,8   0:32.64 mem.bash
+  18500 etozhes+  20   0 9328516   8,9g   3284 R  93,8  59,2   1:09.45 mem.bash
+   5629 etozhes+  20   0 4708044   3880      0 R 100,0   0,0  12:08.06 notepad+
+  18793 etozhes+  20   0 3762612   3,6g   3012 R 100,0  23,8   0:32.64 mem.bash
+  18500 etozhes+  20   0 9328516   8,9g   3284 R  93,8  59,2   1:09.45 mem.bash
+  10570 etozhes+  20   0 1214256  37076  17336 S   6,2   0,2   0:20.32 nautilus
+      1 root      20   0  169816   6224   3928 S   0,0   0,0   0:03.53 systemd
+
+19.12.2023 19:44:50
+MiB Mem :  15383,8 total,   1121,5 free,  13872,3 used,    390,1 buff/cache
+MiB Swap:   2048,0 total,   1319,0 free,    729,0 used.   1230,0 avail Mem 
+  18500 etozhes+  20   0 9522344   9,1g   3284 R 100,0  60,4   1:10.63 mem.bash
+  18793 etozhes+  20   0 3957100   3,8g   3012 R 100,0  25,1   0:33.81 mem.bash
+  18500 etozhes+  20   0 9522344   9,1g   3284 R 100,0  60,4   1:10.63 mem.bash
+  18793 etozhes+  20   0 3957100   3,8g   3012 R 100,0  25,1   0:33.81 mem.bash
+   5629 etozhes+  20   0 4708044   3880      0 R 100,0   0,0  12:09.23 notepad+
+      1 root      20   0  169816   6224   3928 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+
+19.12.2023 19:44:51
+MiB Mem :  15383,8 total,   1067,9 free,  13925,9 used,    390,1 buff/cache
+MiB Swap:   2048,0 total,   1319,0 free,    729,0 used.   1176,4 avail Mem 
+  18793 etozhes+  20   0 3991840   3,8g   3012 R 100,0  25,3   0:35.04 mem.bash
+  18500 etozhes+  20   0 9543752   9,1g   3284 R  94,4  60,5   1:11.85 mem.bash
+   5629 etozhes+  20   0 4708044   3880      0 R 100,0   0,0  12:10.46 notepad+
+  18793 etozhes+  20   0 3991840   3,8g   3012 R 100,0  25,3   0:35.04 mem.bash
+  18500 etozhes+  20   0 9543752   9,1g   3284 R  94,4  60,5   1:11.85 mem.bash
+  10570 etozhes+  20   0 1214256  37076  17336 S  16,7   0,2   0:20.43 nautilus
+  19117 etozhes+  20   0   11992   3888   3168 R  16,7   0,0   0:00.06 top
+
+19.12.2023 19:44:52
+MiB Mem :  15383,8 total,    911,6 free,  14082,1 used,    390,1 buff/cache
+MiB Swap:   2048,0 total,   1319,0 free,    729,0 used.   1020,1 avail Mem 
+  18500 etozhes+  20   0 9622980   9,2g   3284 R 100,0  61,0   1:13.06 mem.bash
+  18793 etozhes+  20   0 4073048   3,9g   3012 R 100,0  25,8   0:36.24 mem.bash
+   5629 etozhes+  20   0 4708044   3880      0 R 106,7   0,0  12:11.67 notepad+
+  18500 etozhes+  20   0 9622980   9,2g   3284 R 100,0  61,0   1:13.06 mem.bash
+  18793 etozhes+  20   0 4073048   3,9g   3012 R 100,0  25,8   0:36.24 mem.bash
+  15086 root      20   0       0      0      0 I   6,7   0,0   0:02.52 kworker+
+      1 root      20   0  169816   6224   3928 S   0,0   0,0   0:03.53 systemd
+
+19.12.2023 19:44:53
+MiB Mem :  15383,8 total,    545,9 free,  14447,8 used,    390,1 buff/cache
+MiB Swap:   2048,0 total,   1319,0 free,    729,0 used.    654,4 avail Mem 
+  18793 etozhes+  20   0 4250772   4,0g   3012 R 100,0  26,9   0:37.41 mem.bash
+  18500 etozhes+  20   0 9816808   9,4g   3284 R  93,8  62,3   1:14.23 mem.bash
+   5629 etozhes+  20   0 4708044   3880      0 R 100,0   0,0  12:12.83 notepad+
+  18793 etozhes+  20   0 4250772   4,0g   3012 R 100,0  26,9   0:37.41 mem.bash
+  18500 etozhes+  20   0 9816808   9,4g   3284 R  93,8  62,3   1:14.23 mem.bash
+   2294 etozhes+  20   0 5823616  97452  30064 S   6,2   0,6   9:16.12 gnome-s+
+  10570 etozhes+  20   0 1214256  37076  17336 S   6,2   0,2   0:20.46 nautilus
+
+19.12.2023 19:44:55
+MiB Mem :  15383,8 total,    156,1 free,  14837,6 used,    390,1 buff/cache
+MiB Swap:   2048,0 total,   1319,0 free,    729,0 used.    264,6 avail Mem 
+  18793 etozhes+  20   0 4445788   4,2g   3012 R 100,0  28,2   0:38.57 mem.bash
+  18500 etozhes+  20   0 9784,3m   9,5g   3284 R  93,8  63,6   1:15.39 mem.bash
+   5629 etozhes+  20   0 4708044   3880      0 R 100,0   0,0  12:14.00 notepad+
+  18793 etozhes+  20   0 4445788   4,2g   3012 R 100,0  28,2   0:38.57 mem.bash
+  18500 etozhes+  20   0 9784,3m   9,5g   3284 R  93,8  63,6   1:15.39 mem.bash
+      1 root      20   0  169816   6224   3928 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+
+19.12.2023 19:44:56
+MiB Mem :  15383,8 total,    149,7 free,  14915,4 used,    318,7 buff/cache
+MiB Swap:   2048,0 total,   1308,7 free,    739,3 used.    187,6 avail Mem 
+  18500 etozhes+  20   0 9832,0m   9,6g   3284 R 100,0  63,9   1:16.62 mem.bash
+  18793 etozhes+  20   0 4502972   4,3g   3012 R 100,0  28,5   0:39.80 mem.bash
+   5629 etozhes+  20   0 4708044   2200      0 R 100,0   0,0  12:15.22 notepad+
+  18500 etozhes+  20   0 9832,0m   9,6g   3284 R 100,0  63,9   1:16.62 mem.bash
+  18793 etozhes+  20   0 4502972   4,3g   3012 R 100,0  28,5   0:39.80 mem.bash
+  19161 etozhes+  20   0   11992   3764   3040 R  16,7   0,0   0:00.07 top
+  17706 root      20   0       0      0      0 I   5,6   0,0   0:00.96 kworker+
+
+19.12.2023 19:44:57
+MiB Mem :  15383,8 total,    157,4 free,  15003,6 used,    222,8 buff/cache
+MiB Swap:   2048,0 total,   1308,5 free,    739,5 used.    105,1 avail Mem 
+  18793 etozhes+  20   0 4552496   4,3g   3012 R 100,0  28,9   0:41.01 mem.bash
+  18500 etozhes+  20   0 9871,1m   9,6g   3284 R  93,8  64,1   1:17.82 mem.bash
+   5629 etozhes+  20   0 4708044   2200      0 R 100,0   0,0  12:16.44 notepad+
+  18793 etozhes+  20   0 4552496   4,3g   3012 R 100,0  28,9   0:41.01 mem.bash
+    181 root      20   0       0      0      0 S  93,8   0,0   5:21.58 kswapd0
+  18500 etozhes+  20   0 9871,1m   9,6g   3284 R  93,8  64,1   1:17.82 mem.bash
+  19172 etozhes+  20   0   11992   3932   3212 R   6,2   0,0   0:00.01 top
+
+19.12.2023 19:44:58
+MiB Mem :  15383,8 total,    155,1 free,  15126,2 used,    102,5 buff/cache
+MiB Swap:   2048,0 total,   1092,9 free,    955,1 used.     42,8 avail Mem 
+  18793 etozhes+  20   0 4739328   4,5g   2572 R 100,0  30,0   0:42.19 mem.bash
+  18500 etozhes+  20   0    9,8g   9,6g   2784 R 100,0  64,1   1:19.00 mem.bash
+   5629 etozhes+  20   0 4708044   1884      0 R 106,7   0,0  12:17.61 notepad+
+  18793 etozhes+  20   0 4739328   4,5g   2572 R 100,0  30,0   0:42.19 mem.bash
+  18500 etozhes+  20   0    9,8g   9,6g   2784 R 100,0  64,1   1:19.00 mem.bash
+    181 root      20   0       0      0      0 S  20,0   0,0   5:22.05 kswapd0
+  19183 etozhes+  20   0   11992   3708   2984 R   6,7   0,0   0:00.01 top
+
+19.12.2023 19:44:59
+MiB Mem :  15383,8 total,    152,8 free,  15128,4 used,    102,6 buff/cache
+MiB Swap:   2048,0 total,    739,4 free,   1308,6 used.     40,4 avail Mem 
+  18500 etozhes+  20   0   10,0g   9,5g   2784 R 100,0  62,9   1:20.17 mem.bash
+  18793 etozhes+  20   0 4926820   4,7g   2572 R 100,0  31,2   0:43.35 mem.bash
+   5629 etozhes+  20   0 4708044   1884      0 R 100,0   0,0  12:18.78 notepad+
+  18500 etozhes+  20   0   10,0g   9,5g   2784 R 100,0  62,9   1:20.17 mem.bash
+  18793 etozhes+  20   0 4926820   4,7g   2572 R 100,0  31,2   0:43.35 mem.bash
+    181 root      20   0       0      0      0 S  20,0   0,0   5:22.30 kswapd0
+      1 root      20   0  169816   4360   2064 S   0,0   0,0   0:03.53 systemd
+
+19.12.2023 19:45:01
+MiB Mem :  15383,8 total,    154,8 free,  15110,7 used,    118,4 buff/cache
+MiB Swap:   2048,0 total,    537,0 free,   1511,0 used.     50,3 avail Mem 
+  18500 etozhes+  20   0   10,1g   9,3g   2784 R  94,4  62,1   1:21.40 mem.bash
+  18793 etozhes+  20   0 5027856   4,8g   2572 R  94,4  31,9   0:44.58 mem.bash
+   5629 etozhes+  20   0 4708044   1884      0 R 100,0   0,0  12:20.01 notepad+
+  18500 etozhes+  20   0   10,1g   9,3g   2784 R  94,4  62,1   1:21.40 mem.bash
+  18793 etozhes+  20   0 5027856   4,8g   2572 R  94,4  31,9   0:44.58 mem.bash
+    181 root      20   0       0      0      0 S  72,2   0,0   5:22.69 kswapd0
+  19205 etozhes+  20   0   11992   3736   3016 R  16,7   0,0   0:00.07 top
+
+19.12.2023 19:45:02
+MiB Mem :  15383,8 total,    155,5 free,  15108,9 used,    119,5 buff/cache
+MiB Swap:   2048,0 total,    504,4 free,   1543,6 used.     51,6 avail Mem 
+  18500 etozhes+  20   0   10,1g   9,3g   2784 R  88,9  62,0   1:22.65 mem.bash
+  18793 etozhes+  20   0 5030496   4,8g   2572 R  88,9  31,9   0:45.83 mem.bash
+   5629 etozhes+  20   0 4708044   1884      0 R  88,9   0,0  12:21.26 notepad+
+  18500 etozhes+  20   0   10,1g   9,3g   2784 R  88,9  62,0   1:22.65 mem.bash
+  18793 etozhes+  20   0 5030496   4,8g   2572 R  88,9  31,9   0:45.83 mem.bash
+      1 root      20   0  169816   4360   2064 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+
+19.12.2023 19:45:03
+MiB Mem :  15383,8 total,    175,3 free,  15087,6 used,    120,9 buff/cache
+MiB Swap:   2048,0 total,    123,1 free,   1924,9 used.     72,1 avail Mem 
+  18500 etozhes+  20   0   10,2g   9,1g   2752 R 100,0  60,6   1:23.82 mem.bash
+  18793 etozhes+  20   0 5224984   5,0g   2540 R 100,0  33,1   0:47.00 mem.bash
+  18500 etozhes+  20   0   10,2g   9,1g   2752 R 100,0  60,6   1:23.82 mem.bash
+  18793 etozhes+  20   0 5224984   5,0g   2540 R 100,0  33,1   0:47.00 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R  93,8   0,0  12:22.42 notepad+
+    181 root      20   0       0      0      0 S  25,0   0,0   5:23.15 kswapd0
+   2074 etozhes+  20   0 4004308  13548   2920 S   6,2   0,1  10:06.96 Xorg
+
+19.12.2023 19:45:04
+MiB Mem :  15383,8 total,   6357,7 free,   8889,4 used,    136,7 buff/cache
+MiB Swap:   2048,0 total,   1273,1 free,    774,8 used.   6262,0 avail Mem 
+  18500 etozhes+  20   0       0      0      0 R 100,0   0,0   1:24.82 mem.bash
+  18793 etozhes+  20   0 5385548   5,1g   1176 R 100,0  34,1   0:48.08 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 100,0   0,0  12:23.48 notepad+
+  18500 etozhes+  20   0       0      0      0 R 100,0   0,0   1:24.82 mem.bash
+  18793 etozhes+  20   0 5385548   5,1g   1176 R 100,0  34,1   0:48.08 mem.bash
+   2294 etozhes+  20   0 5823616  68884  11380 S  20,0   0,4   9:16.37 gnome-s+
+    457 root      19  -1  118108  19692  19448 S   6,7   0,1   1:35.15 systemd+
+
+19.12.2023 19:45:06
+MiB Mem :  15383,8 total,   9180,3 free,   6060,6 used,    142,9 buff/cache
+MiB Swap:   2048,0 total,   1273,4 free,    774,6 used.   9088,0 avail Mem 
+  18793 etozhes+  20   0 5560896   5,3g   1492 R  93,8  35,3   0:49.24 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 100,0   0,0  12:24.65 notepad+
+  18793 etozhes+  20   0 5560896   5,3g   1492 R  93,8  35,3   0:49.24 mem.bash
+      1 root      20   0  169816    500      4 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+19.12.2023 19:45:07
+MiB Mem :  15383,8 total,   9093,4 free,   6135,4 used,    155,0 buff/cache
+MiB Swap:   2048,0 total,   1273,4 free,    774,6 used.   9007,0 avail Mem 
+  18793 etozhes+  20   0 5640256   5,4g   1492 R 100,0  35,8   0:50.48 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 100,0   0,0  12:25.88 notepad+
+  18793 etozhes+  20   0 5640256   5,4g   1492 R 100,0  35,8   0:50.48 mem.bash
+  19260 etozhes+  20   0   11992   3948   3224 R  16,7   0,0   0:00.06 top
+      1 root      20   0  169816    500      4 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+
+19.12.2023 19:45:08
+MiB Mem :  15383,8 total,   9063,9 free,   6163,8 used,    156,1 buff/cache
+MiB Swap:   2048,0 total,   1273,6 free,    774,3 used.   8978,2 avail Mem 
+  18793 etozhes+  20   0 5667736   5,4g   1492 R  88,9  35,9   0:51.72 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R  88,9   0,0  12:27.12 notepad+
+  18793 etozhes+  20   0 5667736   5,4g   1492 R  88,9  35,9   0:51.72 mem.bash
+      1 root      20   0  169816    500      4 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+19.12.2023 19:45:09
+MiB Mem :  15383,8 total,   8862,1 free,   6365,4 used,    156,3 buff/cache
+MiB Swap:   2048,0 total,   1273,6 free,    774,3 used.   8776,5 avail Mem 
+  18793 etozhes+  20   0 5872124   5,6g   1492 R 100,0  37,2   0:52.89 mem.bash
+  18793 etozhes+  20   0 5872124   5,6g   1492 R 100,0  37,2   0:52.89 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R  93,8   0,0  12:28.28 notepad+
+      1 root      20   0  169816    500      4 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+19.12.2023 19:45:10
+MiB Mem :  15383,8 total,   8668,4 free,   6559,1 used,    156,3 buff/cache
+MiB Swap:   2048,0 total,   1273,6 free,    774,3 used.   8582,9 avail Mem 
+  18793 etozhes+  20   0 6068884   5,8g   1492 R 100,0  38,5   0:54.05 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 113,3   0,0  12:29.46 notepad+
+  18793 etozhes+  20   0 6068884   5,8g   1492 R 100,0  38,5   0:54.05 mem.bash
+  10570 etozhes+  20   0 1214256  26044   7752 S   6,7   0,2   0:20.88 nautilus
+      1 root      20   0  169816    500      4 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+
+19.12.2023 19:45:12
+MiB Mem :  15383,8 total,   8550,1 free,   6671,7 used,    162,0 buff/cache
+MiB Swap:   2048,0 total,   1275,1 free,    772,8 used.   8467,5 avail Mem 
+  18793 etozhes+  20   0 6182036   5,9g   1492 R  94,7  39,2   0:55.27 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R  94,7   0,0  12:30.68 notepad+
+  18793 etozhes+  20   0 6182036   5,9g   1492 R  94,7  39,2   0:55.27 mem.bash
+  19304 etozhes+  20   0   11992   3792   3072 R  15,8   0,0   0:00.06 top
+     47 root      20   0       0      0      0 I   5,3   0,0   0:06.13 kworker+
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+
+19.12.2023 19:45:13
+MiB Mem :  15383,8 total,   8516,1 free,   6705,4 used,    162,3 buff/cache
+MiB Swap:   2048,0 total,   1275,4 free,    772,6 used.   8433,6 avail Mem 
+  18793 etozhes+  20   0 6216248   5,9g   1492 R  94,7  39,4   0:56.54 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 100,0   0,0  12:31.95 notepad+
+  18793 etozhes+  20   0 6216248   5,9g   1492 R  94,7  39,4   0:56.54 mem.bash
+  19315 etozhes+  20   0   11992   3800   3076 R  10,5   0,0   0:00.06 top
+   2294 etozhes+  20   0 5823616  70092  12132 S   5,3   0,4   9:16.44 gnome-s+
+  15086 root      20   0       0      0      0 I   5,3   0,0   0:02.53 kworker+
+
+19.12.2023 19:45:14
+MiB Mem :  15383,8 total,   8340,1 free,   6881,4 used,    162,3 buff/cache
+MiB Swap:   2048,0 total,   1275,4 free,    772,6 used.   8257,6 avail Mem 
+  18793 etozhes+  20   0 6395688   6,1g   1492 R 100,0  40,5   0:57.75 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 100,0   0,0  12:33.16 notepad+
+  18793 etozhes+  20   0 6395688   6,1g   1492 R 100,0  40,5   0:57.75 mem.bash
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+19.12.2023 19:45:15
+MiB Mem :  15383,8 total,   8126,7 free,   7094,8 used,    162,3 buff/cache
+MiB Swap:   2048,0 total,   1275,4 free,    772,6 used.   8044,2 avail Mem 
+  18793 etozhes+  20   0 6612380   6,3g   1492 R 100,0  41,9   0:58.92 mem.bash
+  18793 etozhes+  20   0 6612380   6,3g   1492 R 100,0  41,9   0:58.92 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 100,0   0,0  12:34.32 notepad+
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+19.12.2023 19:45:16
+MiB Mem :  15383,8 total,   8014,1 free,   7207,3 used,    162,3 buff/cache
+MiB Swap:   2048,0 total,   1275,4 free,    772,6 used.   7931,7 avail Mem 
+  18793 etozhes+  20   0 6727512   6,4g   1492 R 100,0  42,7   1:00.15 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 100,0   0,0  12:35.55 notepad+
+  18793 etozhes+  20   0 6727512   6,4g   1492 R 100,0  42,7   1:00.15 mem.bash
+  19348 etozhes+  20   0   11992   3932   3208 R  16,7   0,0   0:00.06 top
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+
+19.12.2023 19:45:18
+MiB Mem :  15383,8 total,   7989,7 free,   7229,9 used,    164,2 buff/cache
+MiB Swap:   2048,0 total,   1275,4 free,    772,6 used.   7908,1 avail Mem 
+  18793 etozhes+  20   0 6750876   6,4g   1492 R 100,0  42,8   1:01.41 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 100,0   0,0  12:36.82 notepad+
+  18793 etozhes+  20   0 6750876   6,4g   1492 R 100,0  42,8   1:01.41 mem.bash
+  19359 etozhes+  20   0   11992   3800   3076 R  16,7   0,0   0:00.06 top
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+
+19.12.2023 19:45:19
+MiB Mem :  15383,8 total,   7813,0 free,   7406,1 used,    164,8 buff/cache
+MiB Swap:   2048,0 total,   1275,6 free,    772,3 used.   7731,7 avail Mem 
+  18793 etozhes+  20   0 6929284   6,6g   1492 R 100,0  43,9   1:02.62 mem.bash
+  18793 etozhes+  20   0 6929284   6,6g   1492 R 100,0  43,9   1:02.62 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R  93,8   0,0  12:38.02 notepad+
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+19.12.2023 19:45:20
+MiB Mem :  15383,8 total,   7622,5 free,   7596,5 used,    164,8 buff/cache
+MiB Swap:   2048,0 total,   1275,6 free,    772,3 used.   7541,3 avail Mem 
+  18793 etozhes+  20   0 7123908   6,8g   1492 R 100,0  45,2   1:03.78 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 100,0   0,0  12:39.19 notepad+
+  18793 etozhes+  20   0 7123908   6,8g   1492 R 100,0  45,2   1:03.78 mem.bash
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+19.12.2023 19:45:21
+MiB Mem :  15383,8 total,   7476,6 free,   7742,5 used,    164,8 buff/cache
+MiB Swap:   2048,0 total,   1275,6 free,    772,3 used.   7395,3 avail Mem 
+  18793 etozhes+  20   0 7272328   6,9g   1492 R 100,0  46,1   1:05.01 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 100,0   0,0  12:40.42 notepad+
+  18793 etozhes+  20   0 7272328   6,9g   1492 R 100,0  46,1   1:05.01 mem.bash
+  19392 etozhes+  20   0   11992   3948   3224 R  22,2   0,0   0:00.07 top
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+
+19.12.2023 19:45:23
+MiB Mem :  15383,8 total,   7452,7 free,   7766,4 used,    164,8 buff/cache
+MiB Swap:   2048,0 total,   1275,6 free,    772,3 used.   7371,4 avail Mem 
+  18793 etozhes+  20   0 7295824   7,0g   1492 R  94,7  46,3   1:06.28 mem.bash
+  18793 etozhes+  20   0 7295824   7,0g   1492 R  94,7  46,3   1:06.28 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R  89,5   0,0  12:41.68 notepad+
+  19403 etozhes+  20   0   11992   3796   3076 R  15,8   0,0   0:00.06 top
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+
+19.12.2023 19:45:24
+MiB Mem :  15383,8 total,   7300,0 free,   7919,0 used,    164,8 buff/cache
+MiB Swap:   2048,0 total,   1275,6 free,    772,3 used.   7218,8 avail Mem 
+  18793 etozhes+  20   0 7451504   7,1g   1492 R  93,8  47,3   1:07.48 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 100,0   0,0  12:42.89 notepad+
+  18793 etozhes+  20   0 7451504   7,1g   1492 R  93,8  47,3   1:07.48 mem.bash
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+19.12.2023 19:45:25
+MiB Mem :  15383,8 total,   7105,8 free,   8113,2 used,    164,8 buff/cache
+MiB Swap:   2048,0 total,   1275,6 free,    772,3 used.   7024,6 avail Mem 
+  18793 etozhes+  20   0 7648660   7,3g   1492 R 100,0  48,5   1:08.64 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 106,7   0,0  12:44.06 notepad+
+  18793 etozhes+  20   0 7648660   7,3g   1492 R 100,0  48,5   1:08.64 mem.bash
+   2294 etozhes+  20   0 5823616  70092  12132 S   6,7   0,4   9:16.48 gnome-s+
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+
+19.12.2023 19:45:26
+MiB Mem :  15383,8 total,   6936,3 free,   8282,5 used,    165,1 buff/cache
+MiB Swap:   2048,0 total,   1275,9 free,    772,1 used.   6855,2 avail Mem 
+  18793 etozhes+  20   0 7819124   7,4g   1492 R 100,0  49,6   1:09.88 mem.bash
+  18793 etozhes+  20   0 7819124   7,4g   1492 R 100,0  49,6   1:09.88 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R  94,7   0,0  12:45.28 notepad+
+  19436 etozhes+  20   0   11992   3764   3040 R  15,8   0,0   0:00.06 top
+   1029 message+  20   0    9964   2396    832 S   5,3   0,0   0:13.95 dbus-da+
+   1034 root      20   0  336536   6420   4088 S   5,3   0,0   1:22.57 Network+
+
+19.12.2023 19:45:27
+MiB Mem :  15383,8 total,   6912,4 free,   8306,4 used,    165,1 buff/cache
+MiB Swap:   2048,0 total,   1275,9 free,    772,1 used.   6831,2 avail Mem 
+  18793 etozhes+  20   0 7842620   7,5g   1492 R  94,7  49,7   1:11.14 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R  94,7   0,0  12:46.55 notepad+
+  18793 etozhes+  20   0 7842620   7,5g   1492 R  94,7  49,7   1:11.14 mem.bash
+  19447 etozhes+  20   0   11992   3948   3224 R  15,8   0,0   0:00.06 top
+     40 root      20   0       0      0      0 S   5,3   0,0   0:00.58 ksoftir+
+    179 root      20   0       0      0      0 I   5,3   0,0   0:06.59 kworker+
+
+19.12.2023 19:45:29
+MiB Mem :  15383,8 total,   6781,7 free,   8437,1 used,    165,1 buff/cache
+MiB Swap:   2048,0 total,   1275,9 free,    772,1 used.   6700,6 avail Mem 
+  18793 etozhes+  20   0 7975992   7,6g   1492 R  93,8  50,6   1:12.35 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 100,0   0,0  12:47.76 notepad+
+  18793 etozhes+  20   0 7975992   7,6g   1492 R  93,8  50,6   1:12.35 mem.bash
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+19.12.2023 19:45:30
+MiB Mem :  15383,8 total,   6583,0 free,   8635,7 used,    165,1 buff/cache
+MiB Swap:   2048,0 total,   1275,9 free,    772,1 used.   6501,9 avail Mem 
+  18793 etozhes+  20   0 8178136   7,8g   1492 R 100,0  51,9   1:13.52 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 106,7   0,0  12:48.92 notepad+
+  18793 etozhes+  20   0 8178136   7,8g   1492 R 100,0  51,9   1:13.52 mem.bash
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+19.12.2023 19:45:31
+MiB Mem :  15383,8 total,   6404,1 free,   8814,7 used,    165,1 buff/cache
+MiB Swap:   2048,0 total,   1276,1 free,    771,8 used.   6323,0 avail Mem 
+  18793 etozhes+  20   0 8361300   8,0g   1492 R 100,0  53,0   1:14.71 mem.bash
+  18793 etozhes+  20   0 8361300   8,0g   1492 R 100,0  53,0   1:14.71 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 106,2   0,0  12:50.11 notepad+
+  19480 etozhes+  20   0   11992   3796   3076 R  18,8   0,0   0:00.03 top
+  15086 root      20   0       0      0      0 I   6,2   0,0   0:02.54 kworker+
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+
+19.12.2023 19:45:32
+MiB Mem :  15383,8 total,   6381,9 free,   8835,7 used,    166,2 buff/cache
+MiB Swap:   2048,0 total,   1276,1 free,    771,8 used.   6301,3 avail Mem 
+  18793 etozhes+  20   0 8384928   8,0g   1492 R 100,0  53,2   1:15.99 mem.bash
+  18793 etozhes+  20   0 8384928   8,0g   1492 R 100,0  53,2   1:15.99 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 100,0   0,0  12:51.39 notepad+
+   9197 etozhes+  20   0 2271824    432      0 S  68,4   0,0   2:47.53 snap
+  19491 etozhes+  20   0   11992   3948   3224 R  21,1   0,0   0:00.07 top
+  14823 root      20   0       0      0      0 I   5,3   0,0   0:04.21 kworker+
+
+19.12.2023 19:45:33
+MiB Mem :  15383,8 total,   6261,8 free,   8955,2 used,    166,8 buff/cache
+MiB Swap:   2048,0 total,   1276,1 free,    771,8 used.   6181,5 avail Mem 
+  18793 etozhes+  20   0 8510248   8,1g   1492 R 100,0  54,0   1:17.19 mem.bash
+  18793 etozhes+  20   0 8510248   8,1g   1492 R 100,0  54,0   1:17.19 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 100,0   0,0  12:52.60 notepad+
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+19.12.2023 19:45:35
+MiB Mem :  15383,8 total,   6075,5 free,   9140,9 used,    167,4 buff/cache
+MiB Swap:   2048,0 total,   1276,1 free,    771,8 used.   5995,6 avail Mem 
+  18793 etozhes+  20   0 8695628   8,3g   1492 R  87,5  55,1   1:18.35 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R  93,8   0,0  12:53.77 notepad+
+  18793 etozhes+  20   0 8695628   8,3g   1492 R  87,5  55,1   1:18.35 mem.bash
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+19.12.2023 19:45:36
+MiB Mem :  15383,8 total,   5863,6 free,   9352,8 used,    167,4 buff/cache
+MiB Swap:   2048,0 total,   1276,1 free,    771,8 used.   5783,7 avail Mem 
+  18793 etozhes+  20   0 8909944   8,5g   1492 R 100,0  56,5   1:19.52 mem.bash
+  18793 etozhes+  20   0 8909944   8,5g   1492 R 100,0  56,5   1:19.52 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R  93,8   0,0  12:54.93 notepad+
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+19.12.2023 19:45:37
+MiB Mem :  15383,8 total,   5850,9 free,   9365,0 used,    167,9 buff/cache
+MiB Swap:   2048,0 total,   1276,1 free,    771,8 used.   5771,2 avail Mem 
+  18793 etozhes+  20   0 8925784   8,5g   1492 R 100,0  56,6   1:20.75 mem.bash
+  18793 etozhes+  20   0 8925784   8,5g   1492 R 100,0  56,6   1:20.75 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R  94,4   0,0  12:56.15 notepad+
+  19535 etozhes+  20   0   11992   3932   3208 R  22,2   0,0   0:00.07 top
+  17706 root      20   0       0      0      0 I   5,6   0,0   0:01.03 kworker+
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+
+19.12.2023 19:45:38
+MiB Mem :  15383,8 total,   5775,9 free,   9440,1 used,    167,9 buff/cache
+MiB Swap:   2048,0 total,   1276,1 free,    771,8 used.   5696,2 avail Mem 
+  18793 etozhes+  20   0 9002368   8,6g   1492 R 100,0  57,1   1:21.95 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 106,7   0,0  12:57.37 notepad+
+  18793 etozhes+  20   0 9002368   8,6g   1492 R 100,0  57,1   1:21.95 mem.bash
+  10570 etozhes+  20   0 1214520  26296   7752 S   6,7   0,2   0:21.14 nautilus
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+
+19.12.2023 19:45:39
+MiB Mem :  15383,8 total,   5574,8 free,   9641,2 used,    167,9 buff/cache
+MiB Swap:   2048,0 total,   1276,1 free,    771,8 used.   5495,1 avail Mem 
+  18793 etozhes+  20   0 9206492   8,8g   1492 R 100,0  58,4   1:23.12 mem.bash
+  18793 etozhes+  20   0 9206492   8,8g   1492 R 100,0  58,4   1:23.12 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R  93,8   0,0  12:58.53 notepad+
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+19.12.2023 19:45:41
+MiB Mem :  15383,8 total,   5383,6 free,   9832,4 used,    167,9 buff/cache
+MiB Swap:   2048,0 total,   1276,1 free,    771,8 used.   5303,9 avail Mem 
+  18793 etozhes+  20   0 9401668   9,0g   1492 R 100,0  59,6   1:24.28 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 106,7   0,0  12:59.70 notepad+
+  18793 etozhes+  20   0 9401668   9,0g   1492 R 100,0  59,6   1:24.28 mem.bash
+   2074 etozhes+  20   0 4004308  10736   2920 S   6,7   0,1  10:07.02 Xorg
+  19568 etozhes+  20   0   11992   3948   3224 R   6,7   0,0   0:00.01 top
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+
+19.12.2023 19:45:42
+MiB Mem :  15383,8 total,   5321,2 free,   9894,7 used,    167,9 buff/cache
+MiB Swap:   2048,0 total,   1276,1 free,    771,8 used.   5241,5 avail Mem 
+  18793 etozhes+  20   0 9467696   9,0g   1492 R 100,0  60,1   1:25.51 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 100,0   0,0  13:00.93 notepad+
+  18793 etozhes+  20   0 9467696   9,0g   1492 R 100,0  60,1   1:25.51 mem.bash
+  19579 etozhes+  20   0   11992   3800   3080 R  22,2   0,0   0:00.07 top
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+
+19.12.2023 19:45:43
+MiB Mem :  15383,8 total,   5270,4 free,   9945,6 used,    167,9 buff/cache
+MiB Swap:   2048,0 total,   1276,1 free,    771,8 used.   5190,7 avail Mem 
+  18793 etozhes+  20   0 9517592   9,1g   1492 R  94,1  60,4   1:26.74 mem.bash
+  18793 etozhes+  20   0 9517592   9,1g   1492 R  94,1  60,4   1:26.74 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R  88,2   0,0  13:02.15 notepad+
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+19.12.2023 19:45:44
+MiB Mem :  15383,8 total,   5071,3 free,  10139,3 used,    173,3 buff/cache
+MiB Swap:   2048,0 total,   1277,6 free,    770,3 used.   4994,3 avail Mem 
+  18793 etozhes+  20   0 9713820   9,3g   1492 R  93,8  61,6   1:27.90 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R  93,8   0,0  13:03.32 notepad+
+  18793 etozhes+  20   0 9713820   9,3g   1492 R  93,8  61,6   1:27.90 mem.bash
+  10570 etozhes+  20   0 1214520  26296   7752 S   6,2   0,2   0:21.22 nautilus
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+
+19.12.2023 19:45:45
+MiB Mem :  15383,8 total,   4870,2 free,  10340,3 used,    173,3 buff/cache
+MiB Swap:   2048,0 total,   1277,6 free,    770,3 used.   4793,2 avail Mem 
+  18793 etozhes+  20   0 9916492   9,4g   1492 R 100,0  62,9   1:29.07 mem.bash
+  18793 etozhes+  20   0 9916492   9,4g   1492 R 100,0  62,9   1:29.07 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R  93,8   0,0  13:04.48 notepad+
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+19.12.2023 19:45:47
+MiB Mem :  15383,8 total,   4769,1 free,  10441,4 used,    173,3 buff/cache
+MiB Swap:   2048,0 total,   1277,6 free,    770,3 used.   4692,1 avail Mem 
+  18793 etozhes+  20   0 9784,3m   9,5g   1492 R 100,0  63,6   1:30.31 mem.bash
+  18793 etozhes+  20   0 9784,3m   9,5g   1492 R 100,0  63,6   1:30.31 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 100,0   0,0  13:05.71 notepad+
+  19623 etozhes+  20   0   11992   3836   3116 R  16,7   0,0   0:00.06 top
+     47 root      20   0       0      0      0 I   5,6   0,0   0:06.14 kworker+
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+
+19.12.2023 19:45:48
+MiB Mem :  15383,8 total,   4757,1 free,  10453,4 used,    173,3 buff/cache
+MiB Swap:   2048,0 total,   1277,6 free,    770,3 used.   4680,1 avail Mem 
+  18793 etozhes+  20   0 9796,5m   9,6g   1492 R 100,0  63,6   1:31.57 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 100,0   0,0  13:06.98 notepad+
+  18793 etozhes+  20   0 9796,5m   9,6g   1492 R 100,0  63,6   1:31.57 mem.bash
+  19634 etozhes+  20   0   11992   3884   3160 R  16,7   0,0   0:00.06 top
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+
+19.12.2023 19:45:49
+MiB Mem :  15383,8 total,   4556,8 free,  10653,7 used,    173,3 buff/cache
+MiB Swap:   2048,0 total,   1277,6 free,    770,3 used.   4479,8 avail Mem 
+  18793 etozhes+  20   0 9996,0m   9,8g   1492 R  93,8  64,9   1:32.74 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R  93,8   0,0  13:08.16 notepad+
+  18793 etozhes+  20   0 9996,0m   9,8g   1492 R  93,8  64,9   1:32.74 mem.bash
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+19.12.2023 19:45:50
+MiB Mem :  15383,8 total,   4366,6 free,  10843,9 used,    173,3 buff/cache
+MiB Swap:   2048,0 total,   1277,6 free,    770,3 used.   4289,6 avail Mem 
+  18793 etozhes+  20   0    9,9g   9,9g   1492 R 100,0  66,2   1:33.91 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 106,7   0,0  13:09.33 notepad+
+  18793 etozhes+  20   0    9,9g   9,9g   1492 R 100,0  66,2   1:33.91 mem.bash
+  10570 etozhes+  20   0 1214652  26296   7752 S   6,7   0,2   0:21.31 nautilus
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+
+19.12.2023 19:45:51
+MiB Mem :  15383,8 total,   4242,3 free,  10968,2 used,    173,3 buff/cache
+MiB Swap:   2048,0 total,   1277,6 free,    770,3 used.   4165,3 avail Mem 
+  18793 etozhes+  20   0   10,1g  10,1g   1492 R 100,0  67,0   1:35.14 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 100,0   0,0  13:10.55 notepad+
+  18793 etozhes+  20   0   10,1g  10,1g   1492 R 100,0  67,0   1:35.14 mem.bash
+  19667 etozhes+  20   0   11992   3896   3176 R  16,7   0,0   0:00.06 top
+  10570 etozhes+  20   0 1214652  26296   7752 S   5,6   0,2   0:21.32 nautilus
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+
+19.12.2023 19:45:53
+MiB Mem :  15383,8 total,   4222,2 free,  10983,9 used,    177,7 buff/cache
+MiB Swap:   2048,0 total,   1277,6 free,    770,3 used.   4147,3 avail Mem 
+  18793 etozhes+  20   0   10,1g  10,1g   1492 R 100,0  67,1   1:36.41 mem.bash
+   1073 root      20   0 2355300   4404      0 S 227,8   0,0   3:20.91 snapd
+   5629 etozhes+  20   0 4708044   2008      0 R 100,0   0,0  13:11.82 notepad+
+  18793 etozhes+  20   0   10,1g  10,1g   1492 R 100,0  67,1   1:36.41 mem.bash
+  19678 etozhes+  20   0   11992   3948   3224 R  11,1   0,0   0:00.06 top
+     39 root      rt   0       0      0      0 S   5,6   0,0   0:00.29 migrati+
+
+19.12.2023 19:45:54
+MiB Mem :  15383,8 total,   4046,9 free,  11152,6 used,    184,4 buff/cache
+MiB Swap:   2048,0 total,   1277,6 free,    770,3 used.   3975,4 avail Mem 
+  18793 etozhes+  20   0   10,3g  10,2g   1492 R 100,0  68,2   1:37.61 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 100,0   0,0  13:13.03 notepad+
+  18793 etozhes+  20   0   10,3g  10,2g   1492 R 100,0  68,2   1:37.61 mem.bash
+  10570 etozhes+  20   0 1214652  26296   7752 S   6,7   0,2   0:21.37 nautilus
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+
+19.12.2023 19:45:55
+MiB Mem :  15383,8 total,   3851,7 free,  11347,5 used,    184,6 buff/cache
+MiB Swap:   2048,0 total,   1277,9 free,    770,1 used.   3780,3 avail Mem 
+  18793 etozhes+  20   0   10,4g  10,4g   1492 R 100,0  69,5   1:38.78 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 106,7   0,0  13:14.20 notepad+
+  18793 etozhes+  20   0   10,4g  10,4g   1492 R 100,0  69,5   1:38.78 mem.bash
+  17626 root      20   0       0      0      0 I   6,7   0,0   0:00.82 kworker+
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+
+19.12.2023 19:45:56
+MiB Mem :  15383,8 total,   3715,6 free,  11483,6 used,    184,6 buff/cache
+MiB Swap:   2048,0 total,   1277,9 free,    770,1 used.   3644,3 avail Mem 
+  18793 etozhes+  20   0   10,6g  10,6g   1492 R  94,7  70,4   1:40.01 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 100,0   0,0  13:15.43 notepad+
+  18793 etozhes+  20   0   10,6g  10,6g   1492 R  94,7  70,4   1:40.01 mem.bash
+  19711 etozhes+  20   0   11992   3944   3224 R  15,8   0,0   0:00.07 top
+  17097 root      20   0       0      0      0 I   5,3   0,0   0:12.14 kworker+
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+
+19.12.2023 19:45:58
+MiB Mem :  15383,8 total,   3694,4 free,  11504,8 used,    184,6 buff/cache
+MiB Swap:   2048,0 total,   1277,9 free,    770,1 used.   3623,1 avail Mem 
+  18793 etozhes+  20   0   10,6g  10,6g   1492 R  94,7  70,5   1:41.27 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R  94,7   0,0  13:16.69 notepad+
+  18793 etozhes+  20   0   10,6g  10,6g   1492 R  94,7  70,5   1:41.27 mem.bash
+  19722 etozhes+  20   0   11992   3828   3104 R  15,8   0,0   0:00.06 top
+  10570 etozhes+  20   0 1214784  26560   7752 R  10,5   0,2   0:21.41 nautilus
+   2294 etozhes+  20   0 5823616  74592  15756 S   5,3   0,5   9:16.68 gnome-s+
+
+19.12.2023 19:45:59
+MiB Mem :  15383,8 total,   3534,1 free,  11664,9 used,    184,8 buff/cache
+MiB Swap:   2048,0 total,   1278,1 free,    769,8 used.   3462,9 avail Mem 
+  18793 etozhes+  20   0   10,8g  10,7g   1492 R  93,8  71,6   1:42.48 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R  93,8   0,0  13:17.90 notepad+
+  18793 etozhes+  20   0   10,8g  10,7g   1492 R  93,8  71,6   1:42.48 mem.bash
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+19.12.2023 19:46:00
+MiB Mem :  15383,8 total,   3342,8 free,  11850,8 used,    190,1 buff/cache
+MiB Swap:   2048,0 total,   1278,4 free,    769,6 used.   3274,2 avail Mem 
+  18793 etozhes+  20   0   10,9g  10,9g   1492 R  93,3  72,7   1:43.64 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 100,0   0,0  13:19.06 notepad+
+  18793 etozhes+  20   0   10,9g  10,9g   1492 R  93,3  72,7   1:43.64 mem.bash
+  10570 etozhes+  20   0 1214784  26560   7752 S   6,7   0,2   0:21.46 nautilus
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+
+19.12.2023 19:46:01
+MiB Mem :  15383,8 total,   3182,6 free,  12010,7 used,    190,5 buff/cache
+MiB Swap:   2048,0 total,   1278,6 free,    769,3 used.   3114,2 avail Mem 
+  18793 etozhes+  20   0   11,1g  11,1g   1492 R 100,0  73,8   1:44.88 mem.bash
+  18793 etozhes+  20   0   11,1g  11,1g   1492 R 100,0  73,8   1:44.88 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R  94,4   0,0  13:20.29 notepad+
+  19755 etozhes+  20   0   11992   3944   3224 R  16,7   0,0   0:00.06 top
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+
+19.12.2023 19:46:02
+MiB Mem :  15383,8 total,   3159,7 free,  12033,7 used,    190,5 buff/cache
+MiB Swap:   2048,0 total,   1278,6 free,    769,3 used.   3091,3 avail Mem 
+  18793 etozhes+  20   0   11,1g  11,1g   1492 R  89,5  73,9   1:46.14 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R  94,7   0,0  13:21.56 notepad+
+  18793 etozhes+  20   0   11,1g  11,1g   1492 R  89,5  73,9   1:46.14 mem.bash
+  19766 etozhes+  20   0   11992   3948   3224 R  21,1   0,0   0:00.07 top
+  17097 root      20   0       0      0      0 I   5,3   0,0   0:12.16 kworker+
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+
+19.12.2023 19:46:04
+MiB Mem :  15383,8 total,   3019,9 free,  12172,5 used,    191,4 buff/cache
+MiB Swap:   2048,0 total,   1278,6 free,    769,3 used.   2951,9 avail Mem 
+  18793 etozhes+  20   0   11,2g  11,2g   1492 R 100,0  74,8   1:47.35 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 100,0   0,0  13:22.77 notepad+
+  18793 etozhes+  20   0   11,2g  11,2g   1492 R 100,0  74,8   1:47.35 mem.bash
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+19.12.2023 19:46:05
+MiB Mem :  15383,8 total,   2814,6 free,  12377,7 used,    191,6 buff/cache
+MiB Swap:   2048,0 total,   1278,6 free,    769,3 used.   2746,8 avail Mem 
+  18793 etozhes+  20   0   11,4g  11,4g   1492 R 100,0  76,1   1:48.52 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 106,7   0,0  13:23.93 notepad+
+  18793 etozhes+  20   0   11,4g  11,4g   1492 R 100,0  76,1   1:48.52 mem.bash
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+19.12.2023 19:46:06
+MiB Mem :  15383,8 total,   2650,7 free,  12541,6 used,    191,6 buff/cache
+MiB Swap:   2048,0 total,   1278,6 free,    769,3 used.   2582,8 avail Mem 
+  18793 etozhes+  20   0   11,6g  11,6g   1492 R 100,0  77,2   1:49.71 mem.bash
+  18793 etozhes+  20   0   11,6g  11,6g   1492 R 100,0  77,2   1:49.71 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 113,3   0,0  13:25.12 notepad+
+  19799 etozhes+  20   0   11992   3900   3176 R  20,0   0,0   0:00.03 top
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+
+19.12.2023 19:46:07
+MiB Mem :  15383,8 total,   2629,9 free,  12562,4 used,    191,6 buff/cache
+MiB Swap:   2048,0 total,   1278,6 free,    769,3 used.   2562,0 avail Mem 
+  18793 etozhes+  20   0   11,6g  11,6g   1492 R 100,0  77,3   1:50.97 mem.bash
+  18793 etozhes+  20   0   11,6g  11,6g   1492 R 100,0  77,3   1:50.97 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R  94,4   0,0  13:26.38 notepad+
+  19810 etozhes+  20   0   11992   3936   3212 R  16,7   0,0   0:00.06 top
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+
+19.12.2023 19:46:08
+MiB Mem :  15383,8 total,   2504,8 free,  12687,4 used,    191,6 buff/cache
+MiB Swap:   2048,0 total,   1278,6 free,    769,3 used.   2437,0 avail Mem 
+  18793 etozhes+  20   0   11,7g  11,7g   1492 R 100,0  78,1   1:52.18 mem.bash
+  18793 etozhes+  20   0   11,7g  11,7g   1492 R 100,0  78,1   1:52.18 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R  93,8   0,0  13:27.59 notepad+
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+19.12.2023 19:46:10
+MiB Mem :  15383,8 total,   2317,5 free,  12874,7 used,    191,6 buff/cache
+MiB Swap:   2048,0 total,   1278,9 free,    769,1 used.   2249,7 avail Mem 
+  18793 etozhes+  20   0   11,9g  11,9g   1492 R 100,0  79,3   1:53.35 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 100,0   0,0  13:28.76 notepad+
+  18793 etozhes+  20   0   11,9g  11,9g   1492 R 100,0  79,3   1:53.35 mem.bash
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+19.12.2023 19:46:11
+MiB Mem :  15383,8 total,   2114,9 free,  13077,3 used,    191,6 buff/cache
+MiB Swap:   2048,0 total,   1278,9 free,    769,1 used.   2047,1 avail Mem 
+  18793 etozhes+  20   0   12,1g  12,1g   1492 R 100,0  80,7   1:54.51 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 100,0   0,0  13:29.93 notepad+
+  18793 etozhes+  20   0   12,1g  12,1g   1492 R 100,0  80,7   1:54.51 mem.bash
+  19843 etozhes+  20   0   11992   3800   3080 R   6,7   0,0   0:00.01 top
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+
+19.12.2023 19:46:12
+MiB Mem :  15383,8 total,   2095,5 free,  13096,7 used,    191,6 buff/cache
+MiB Swap:   2048,0 total,   1278,9 free,    769,1 used.   2027,7 avail Mem 
+  18793 etozhes+  20   0   12,1g  12,1g   1492 R 100,0  80,8   1:55.74 mem.bash
+  18793 etozhes+  20   0   12,1g  12,1g   1492 R 100,0  80,8   1:55.74 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 100,0   0,0  13:31.15 notepad+
+  19854 etozhes+  20   0   11992   3840   3120 R  22,2   0,0   0:00.07 top
+   1048 root      20   0   81992    564    500 S   5,6   0,0   0:12.36 irqbala+
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+
+19.12.2023 19:46:13
+MiB Mem :  15383,8 total,   2014,0 free,  13178,2 used,    191,6 buff/cache
+MiB Swap:   2048,0 total,   1278,9 free,    769,1 used.   1946,2 avail Mem 
+  18793 etozhes+  20   0   12,2g  12,2g   1492 R 100,0  81,3   1:56.94 mem.bash
+  18793 etozhes+  20   0   12,2g  12,2g   1492 R 100,0  81,3   1:56.94 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R  93,8   0,0  13:32.36 notepad+
+  10570 etozhes+  20   0 1214916  27920   9048 S   6,2   0,2   0:21.56 nautilus
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+
+19.12.2023 19:46:14
+MiB Mem :  15383,8 total,   1805,1 free,  13387,2 used,    191,6 buff/cache
+MiB Swap:   2048,0 total,   1278,9 free,    769,1 used.   1737,2 avail Mem 
+  18793 etozhes+  20   0   12,4g  12,4g   1492 R 100,0  82,7   1:58.10 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 100,0   0,0  13:33.52 notepad+
+  18793 etozhes+  20   0   12,4g  12,4g   1492 R 100,0  82,7   1:58.10 mem.bash
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+19.12.2023 19:46:16
+MiB Mem :  15383,8 total,   1622,7 free,  13569,5 used,    191,6 buff/cache
+MiB Swap:   2048,0 total,   1278,9 free,    769,1 used.   1554,8 avail Mem 
+  18793 etozhes+  20   0   12,6g  12,6g   1492 R 100,0  83,8   1:59.27 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 100,0   0,0  13:34.69 notepad+
+  18793 etozhes+  20   0   12,6g  12,6g   1492 R 100,0  83,8   1:59.27 mem.bash
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+19.12.2023 19:46:17
+MiB Mem :  15383,8 total,   1417,4 free,  13772,3 used,    194,1 buff/cache
+MiB Swap:   2048,0 total,   1278,9 free,    769,1 used.   1350,8 avail Mem 
+  18793 etozhes+  20   0   12,8g  12,8g   1492 R  93,8  85,1   2:00.44 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 100,0   0,0  13:35.86 notepad+
+  18793 etozhes+  20   0   12,8g  12,8g   1492 R  93,8  85,1   2:00.44 mem.bash
+    193 root      20   0       0      0      0 I   6,2   0,0   0:06.24 kworker+
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+
+19.12.2023 19:46:18
+MiB Mem :  15383,8 total,   1388,1 free,  13800,2 used,    195,5 buff/cache
+MiB Swap:   2048,0 total,   1279,4 free,    768,6 used.   1322,2 avail Mem 
+  18793 etozhes+  20   0   12,8g  12,8g   1492 R  89,5  85,3   2:01.67 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R  89,5   0,0  13:37.09 notepad+
+  18793 etozhes+  20   0   12,8g  12,8g   1492 R  89,5  85,3   2:01.67 mem.bash
+   2074 etozhes+  20   0 4004308  16972   7832 S  21,1   0,1  10:07.29 Xorg
+    230 root     -51   0       0      0      0 S  15,8   0,0   2:24.02 irq/33-+
+   2294 etozhes+  20   0 5823616  80252  21168 S  15,8   0,5   9:16.91 gnome-s+
+
+19.12.2023 19:46:19
+MiB Mem :  15383,8 total,   1306,9 free,  13872,1 used,    204,8 buff/cache
+MiB Swap:   2048,0 total,   1281,9 free,    766,1 used.   1245,7 avail Mem 
+  18793 etozhes+  20   0   12,9g  12,9g   1492 R 100,0  85,7   2:02.89 mem.bash
+  18793 etozhes+  20   0   12,9g  12,9g   1492 R 100,0  85,7   2:02.89 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 100,0   0,0  13:38.30 notepadqq-bin
+   2074 etozhes+  20   0 4006360  18032   8280 S   6,7   0,1  10:07.54 Xorg
+  10570 etozhes+  20   0 1215048  29048   9592 S   6,7   0,2   0:21.65 nautilus
+  19920 etozhes+  20   0   11992   3788   3068 R   6,7   0,0   0:00.01 top
+
+19.12.2023 19:46:20
+MiB Mem :  15383,8 total,   1111,6 free,  14067,4 used,    204,9 buff/cache
+MiB Swap:   2048,0 total,   1281,9 free,    766,1 used.   1050,4 avail Mem 
+  18793 etozhes+  20   0   13,1g  13,1g   1492 R 100,0  87,0   2:04.05 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 106,7   0,0  13:39.47 notepadqq-bin
+  18793 etozhes+  20   0   13,1g  13,1g   1492 R 100,0  87,0   2:04.05 mem.bash
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+19.12.2023 19:46:22
+MiB Mem :  15383,8 total,    921,7 free,  14257,2 used,    205,0 buff/cache
+MiB Swap:   2048,0 total,   1281,9 free,    766,1 used.    860,5 avail Mem 
+  18793 etozhes+  20   0   13,3g  13,3g   1492 R  93,8  88,2   2:05.22 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R  93,8   0,0  13:40.63 notepadqq-bin
+  18793 etozhes+  20   0   13,3g  13,3g   1492 R  93,8  88,2   2:05.22 mem.bash
+  17626 root      20   0       0      0      0 I   6,2   0,0   0:00.83 kworker/4:0-events
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+
+19.12.2023 19:46:23
+MiB Mem :  15383,8 total,    724,8 free,  14454,0 used,    205,0 buff/cache
+MiB Swap:   2048,0 total,   1281,9 free,    766,1 used.    663,7 avail Mem 
+  18793 etozhes+  20   0   13,5g  13,4g   1492 R  93,8  89,5   2:06.38 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 100,0   0,0  13:41.81 notepadqq-bin
+  18793 etozhes+  20   0   13,5g  13,4g   1492 R  93,8  89,5   2:06.38 mem.bash
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+19.12.2023 19:46:24
+MiB Mem :  15383,8 total,    686,0 free,  14492,8 used,    205,0 buff/cache
+MiB Swap:   2048,0 total,   1281,9 free,    766,1 used.    624,9 avail Mem 
+  18793 etozhes+  20   0   13,5g  13,5g   1492 R  94,4  89,8   2:07.61 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 100,0   0,0  13:43.03 notepadqq-bin
+  18793 etozhes+  20   0   13,5g  13,5g   1492 R  94,4  89,8   2:07.61 mem.bash
+  19964 etozhes+  20   0   11992   3792   3072 R  22,2   0,0   0:00.07 top
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+
+19.12.2023 19:46:25
+MiB Mem :  15383,8 total,    618,7 free,  14560,1 used,    205,0 buff/cache
+MiB Swap:   2048,0 total,   1281,9 free,    766,1 used.    557,6 avail Mem 
+  18793 etozhes+  20   0   13,6g  13,6g   1492 R 100,0  90,2   2:08.82 mem.bash
+  18793 etozhes+  20   0   13,6g  13,6g   1492 R 100,0  90,2   2:08.82 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R  93,3   0,0  13:44.23 notepadqq-bin
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+19.12.2023 19:46:26
+MiB Mem :  15383,8 total,    428,1 free,  14750,1 used,    205,6 buff/cache
+MiB Swap:   2048,0 total,   1282,6 free,    765,3 used.    367,3 avail Mem 
+  18793 etozhes+  20   0   13,7g  13,7g   1492 R  93,8  91,4   2:09.98 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R  93,8   0,0  13:45.40 notepadqq-bin
+  18793 etozhes+  20   0   13,7g  13,7g   1492 R  93,8  91,4   2:09.98 mem.bash
+    328 root     -51   0       0      0      0 D   6,2   0,0   0:24.29 irq/51-ASUE120B
+   2074 etozhes+  20   0 4004312  18128   8340 S   6,2   0,1  10:07.67 Xorg
+   2294 etozhes+  20   0 5820968  89148  27488 S   6,2   0,6   9:17.29 gnome-shell
+
+19.12.2023 19:46:27
+MiB Mem :  15383,8 total,    228,7 free,  14949,5 used,    205,6 buff/cache
+MiB Swap:   2048,0 total,   1282,6 free,    765,3 used.    167,8 avail Mem 
+  18793 etozhes+  20   0   13,9g  13,9g   1492 R  93,8  92,7   2:11.15 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R  93,8   0,0  13:46.57 notepadqq-bin
+  18793 etozhes+  20   0   13,9g  13,9g   1492 R  93,8  92,7   2:11.15 mem.bash
+    230 root     -51   0       0      0      0 S   6,2   0,0   2:24.20 irq/33-ACPI:Eve
+   2074 etozhes+  20   0 4004312  18128   8340 S   6,2   0,1  10:07.69 Xorg
+   2294 etozhes+  20   0 5820968  89148  27488 S   6,2   0,6   9:17.31 gnome-shell
+
+19.12.2023 19:46:29
+MiB Mem :  15383,8 total,    163,0 free,  15001,4 used,    219,4 buff/cache
+MiB Swap:   2048,0 total,   1144,4 free,    903,6 used.    109,1 avail Mem 
+  18793 etozhes+  20   0   14,1g  14,0g   1492 R 100,0  92,9   2:12.31 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 100,0   0,0  13:47.74 notepadqq-bin
+  18793 etozhes+  20   0   14,1g  14,0g   1492 R 100,0  92,9   2:12.31 mem.bash
+    181 root      20   0       0      0      0 S  13,3   0,0   5:23.75 kswapd0
+  10570 etozhes+  20   0 1215180  32536  12132 S   6,7   0,2   0:21.85 nautilus
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+
+19.12.2023 19:46:30
+MiB Mem :  15383,8 total,    147,9 free,  15018,7 used,    217,3 buff/cache
+MiB Swap:   2048,0 total,    972,7 free,   1075,3 used.     92,8 avail Mem 
+  18793 etozhes+  20   0   14,3g  14,0g   1492 R 100,0  93,1   2:13.48 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 100,0   0,0  13:48.91 notepadqq-bin
+  18793 etozhes+  20   0   14,3g  14,0g   1492 R 100,0  93,1   2:13.48 mem.bash
+    181 root      20   0       0      0      0 S   6,7   0,0   5:23.87 kswapd0
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.13 kthreadd
+
+19.12.2023 19:46:31
+MiB Mem :  15383,8 total,    161,9 free,  15004,7 used,    217,3 buff/cache
+MiB Swap:   2048,0 total,    935,2 free,   1112,8 used.    106,9 avail Mem 
+  18793 etozhes+  20   0   14,3g  14,0g   1492 R  94,7  93,0   2:14.72 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R  94,7   0,0  13:50.14 notepadqq-bin
+  18793 etozhes+  20   0   14,3g  14,0g   1492 R  94,7  93,0   2:14.72 mem.bash
+  20031 etozhes+  20   0   11992   3784   3064 R  15,8   0,0   0:00.07 top
+     76 root      20   0       0      0      0 S   5,3   0,0   0:00.57 ksoftirqd/10
+   2074 etozhes+  20   0 4004312  18808   8536 S   5,3   0,1  10:07.91 Xorg
+
+19.12.2023 19:46:32
+MiB Mem :  15383,8 total,    158,6 free,  15008,7 used,    216,6 buff/cache
+MiB Swap:   2048,0 total,    861,4 free,   1186,6 used.    103,2 avail Mem 
+  18793 etozhes+  20   0   14,4g  14,0g   1492 R 100,0  93,0   2:15.92 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 106,7   0,0  13:51.35 notepadqq-bin
+  18793 etozhes+  20   0   14,4g  14,0g   1492 R 100,0  93,0   2:15.92 mem.bash
+    181 root      20   0       0      0      0 S  20,0   0,0   5:24.05 kswapd0
+  10570 etozhes+  20   0 1215180  32948  12344 S   6,7   0,2   0:22.23 nautilus
+      1 root      20   0  169816   3212   2448 S   0,0   0,0   0:03.53 systemd
+
+19.12.2023 19:46:33
+MiB Mem :  15383,8 total,    145,4 free,  14975,4 used,    263,1 buff/cache
+MiB Swap:   2048,0 total,    643,3 free,   1404,6 used.    127,7 avail Mem 
+  18793 etozhes+  20   0   14,6g  13,9g   1492 R  93,8  92,5   2:17.09 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 100,0   0,0  13:52.52 notepadqq-bin
+  18793 etozhes+  20   0   14,6g  13,9g   1492 R  93,8  92,5   2:17.09 mem.bash
+    230 root     -51   0       0      0      0 S   6,2   0,0   2:24.22 irq/33-ACPI:Eve
+   2294 etozhes+  20   0 5819528  95552  30228 S   6,2   0,6   9:17.69 gnome-shell
+  10570 etozhes+  20   0 1215576  38180  16416 S   6,2   0,2   0:22.35 nautilus
+
+19.12.2023 19:46:35
+MiB Mem :  15383,8 total,    156,8 free,  14966,9 used,    260,2 buff/cache
+MiB Swap:   2048,0 total,    447,4 free,   1600,6 used.    136,2 avail Mem 
+  18793 etozhes+  20   0   14,7g  13,9g   1492 R  93,8  92,5   2:18.25 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R  93,8   0,0  13:53.68 notepadqq-bin
+  18793 etozhes+  20   0   14,7g  13,9g   1492 R  93,8  92,5   2:18.25 mem.bash
+   2074 etozhes+  20   0 4013020  22332   9800 S  12,5   0,1  10:08.17 Xorg
+    181 root      20   0       0      0      0 S   6,2   0,0   5:24.37 kswapd0
+    230 root     -51   0       0      0      0 S   6,2   0,0   2:24.25 irq/33-ACPI:Eve
+
+19.12.2023 19:46:36
+MiB Mem :  15383,8 total,    147,5 free,  14980,4 used,    256,0 buff/cache
+MiB Swap:   2048,0 total,    276,5 free,   1771,5 used.    122,8 avail Mem 
+  18793 etozhes+  20   0   14,9g  13,9g   1472 R 100,0  92,6   2:19.42 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 106,7   0,0  13:54.85 notepadqq-bin
+  18793 etozhes+  20   0   14,9g  13,9g   1472 R 100,0  92,6   2:19.42 mem.bash
+    181 root      20   0       0      0      0 S   6,7   0,0   5:24.50 kswapd0
+    230 root     -51   0       0      0      0 S   6,7   0,0   2:24.28 irq/33-ACPI:Eve
+   2074 etozhes+  20   0 4004828  22336   9800 S   6,7   0,1  10:08.22 Xorg
+
+19.12.2023 19:46:37
+MiB Mem :  15383,8 total,    154,1 free,  14976,8 used,    253,0 buff/cache
+MiB Swap:   2048,0 total,    112,4 free,   1935,6 used.    126,4 avail Mem 
+  18793 etozhes+  20   0   15,1g  13,9g   1472 R 100,0  92,5   2:20.62 mem.bash
+  18793 etozhes+  20   0   15,1g  13,9g   1472 R 100,0  92,5   2:20.62 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 120,0   0,0  13:56.04 notepadqq-bin
+   2074 etozhes+  20   0 4015068  22356   9804 R  66,7   0,1  10:08.37 Xorg
+  20054 etozhes+  20   0  821544  59508  41460 S  60,0   0,4   0:00.48 gedit
+   2294 etozhes+  20   0 5821576  95760  29916 S  26,7   0,6   9:17.92 gnome-shell
+
+19.12.2023 19:46:38
+MiB Mem :  15383,8 total,    159,8 free,  14971,7 used,    252,3 buff/cache
+MiB Swap:   2048,0 total,     79,3 free,   1968,7 used.    131,3 avail Mem 
+  18793 etozhes+  20   0   15,1g  13,9g   1472 R  94,7  92,4   2:21.90 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R  94,7   0,0  13:57.32 notepadqq-bin
+  18793 etozhes+  20   0   15,1g  13,9g   1472 R  94,7  92,4   2:21.90 mem.bash
+    181 root      20   0       0      0      0 R  68,4   0,0   5:24.85 kswapd0
+   2074 etozhes+  20   0 4019164  22412   9836 S  26,3   0,1  10:08.70 Xorg
+   2294 etozhes+  20   0 5821576  95840  29916 R  26,3   0,6   9:18.30 gnome-shell
+
+19.12.2023 19:46:39
+MiB Mem :  15383,8 total,    167,3 free,  14990,8 used,    225,8 buff/cache
+MiB Swap:   2048,0 total,      0,0 free,   2048,0 used.    116,3 avail Mem 
+  18793 etozhes+  20   0   15,2g  13,9g   1472 R 100,0  92,6   2:23.11 mem.bash
+   5629 etozhes+  20   0 4708044   2008      0 R 100,0   0,0  13:58.54 notepadqq-bin
+  18793 etozhes+  20   0   15,2g  13,9g   1472 R 100,0  92,6   2:23.11 mem.bash
+    181 root      20   0       0      0      0 S  25,0   0,0   5:24.97 kswapd0
+    230 root     -51   0       0      0      0 S   6,2   0,0   2:24.59 irq/33-ACPI:Eve
+   2074 etozhes+  20   0 4013020  22432   9800 S   6,2   0,1  10:08.99 Xorg
+
+19.12.2023 19:46:41
+MiB Mem :  15383,8 total,    143,8 free,  15160,9 used,     79,1 buff/cache
+MiB Swap:   2048,0 total,      0,0 free,   2048,0 used.     19,0 avail Mem 
+  18793 etozhes+  20   0   15,4g  14,1g    408 R  93,8  93,7   2:24.29 mem.bash
+    181 root      20   0       0      0      0 R 100,0   0,0   5:25.24 kswapd0
+  18793 etozhes+  20   0   15,4g  14,1g    408 R  93,8  93,7   2:24.29 mem.bash
+   5629 etozhes+  20   0 4708044   2012      0 R  81,2   0,0  13:59.70 notepadqq-bin
+   2074 etozhes+  20   0 4006876  13768   1108 S  12,5   0,1  10:09.06 Xorg
+   2294 etozhes+  20   0 5821576  66092     44 D  12,5   0,4   9:18.63 gnome-shell
+
+19.12.2023 19:46:44
+MiB Mem :  15383,8 total,    128,3 free,  15185,4 used,     70,1 buff/cache
+MiB Swap:   2048,0 total,      0,0 free,   2048,0 used.     79,6 avail Mem 
+  18793 etozhes+  20   0       0      0      0 R 100,0   0,0   2:25.72 mem.bash
+    181 root      20   0       0      0      0 S 100,0   0,0   5:28.09 kswapd0
+   2074 etozhes+  20   0 4006876  12936    432 S 183,7   0,1  10:10.74 Xorg
+    457 root      19  -1  118108    696    260 R 100,0   0,0   1:35.69 systemd-journal
+  18793 etozhes+  20   0       0      0      0 R 100,0   0,0   2:25.72 mem.bash
+   4149 etozhes+  20   0 8763088   9500      4 S 107,0   0,1   4:43.87 soffice.bin
+

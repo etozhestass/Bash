@@ -1,0 +1,700 @@
+19.12.2023 18:04:25
+MiB Mem :  15383,8 total,   4421,0 free,   6040,9 used,   4921,9 buff/cache
+MiB Swap:   2048,0 total,   1660,0 free,    388,0 used.   8933,1 avail Mem 
+
+  11341 root      20   0   37752  31636   3092 R 100,0   0,2   0:00.16 mem2.ba+
+  11340 root      20   0   37752  31720   3176 R  93,8   0,2   0:00.16 mem.bash
+   6336 etozhes+  20   0 4326644 540676 217848 S  25,0   3,4   7:13.68 firefox
+   2074 etozhes+  20   0 4032556 133820  72900 S   6,2   0,8   3:38.12 Xorg
+   2294 etozhes+  20   0 5736364 159816  51236 S   6,2   1,0   3:50.43 gnome-s+
+
+19.12.2023 18:04:26
+MiB Mem :  15383,8 total,   4109,1 free,   6352,8 used,   4922,0 buff/cache
+MiB Swap:   2048,0 total,   1660,0 free,    388,0 used.   8621,2 avail Mem 
+
+  11340 root      20   0  199916 193816   3176 R 100,0   1,2   0:01.34 mem.bash
+  11341 root      20   0  197012 190828   3092 R 100,0   1,2   0:01.34 mem2.ba+
+   6336 etozhes+  20   0 4326644 540676 217848 S  18,8   3,4   7:13.93 firefox
+   2294 etozhes+  20   0 5736364 159816  51236 S   6,2   1,0   3:50.45 gnome-s+
+   6613 etozhes+  20   0 2860052 225872 124100 S   6,2   1,4   5:39.69 Isolate+
+
+19.12.2023 18:04:27
+MiB Mem :  15383,8 total,   3776,8 free,   6685,0 used,   4922,0 buff/cache
+MiB Swap:   2048,0 total,   1660,0 free,    388,0 used.   8289,0 avail Mem 
+
+  11340 root      20   0  371572 365416   3176 R 100,0   2,3   0:02.51 mem.bash
+  11341 root      20   0  367480 361372   3092 R 100,0   2,3   0:02.51 mem2.ba+
+   6336 etozhes+  20   0 4326644 540676 217848 S  20,0   3,4   7:14.18 firefox
+      1 root      20   0  169816   9812   4984 S   0,0   0,1   0:01.46 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.00 kthreadd
+
+19.12.2023 18:04:29
+MiB Mem :  15383,8 total,   3450,2 free,   7011,6 used,   4922,0 buff/cache
+MiB Swap:   2048,0 total,   1660,0 free,    388,0 used.   7962,3 avail Mem 
+
+  11340 root      20   0  537284 531208   3176 R 100,0   3,4   0:03.69 mem.bash
+  11341 root      20   0  533984 527692   3092 R 100,0   3,3   0:03.69 mem2.ba+
+   6336 etozhes+  20   0 4326644 541204 217848 S  18,8   3,4   7:14.44 firefox
+   2294 etozhes+  20   0 5736364 159880  51236 S  12,5   1,0   3:50.62 gnome-s+
+   3866 etozhes+  20   0   12124   1064    400 S   6,2   0,0   0:13.33 top
+
+19.12.2023 18:04:30
+MiB Mem :  15383,8 total,   3122,0 free,   7339,8 used,   4922,0 buff/cache
+MiB Swap:   2048,0 total,   1660,0 free,    388,0 used.   7634,1 avail Mem 
+
+  11340 root      20   0  704448 698320   3176 R 100,0   4,4   0:04.86 mem.bash
+  11341 root      20   0  700356 694276   3092 R 100,0   4,4   0:04.86 mem2.ba+
+   6336 etozhes+  20   0 4326644 541204 217848 S  20,0   3,4   7:14.69 firefox
+   2294 etozhes+  20   0 5736364 159916  51236 S  13,3   1,0   3:50.76 gnome-s+
+   7519 root      20   0       0      0      0 I   6,7   0,0   0:03.12 kworker+
+
+19.12.2023 18:04:31
+MiB Mem :  15383,8 total,   2790,4 free,   7671,4 used,   4922,0 buff/cache
+MiB Swap:   2048,0 total,   1660,0 free,    388,0 used.   7302,6 avail Mem 
+
+  11340 root      20   0  872804 866752   3176 R 100,0   5,5   0:06.04 mem.bash
+  11341 root      20   0  868184 861916   3092 R  93,8   5,5   0:06.03 mem2.ba+
+   2074 etozhes+  20   0 4026412 133820  72900 S  12,5   0,8   3:38.30 Xorg
+   2294 etozhes+  20   0 5736364 159916  51236 S  12,5   1,0   3:50.91 gnome-s+
+   6336 etozhes+  20   0 4326644 541204 217848 S  12,5   3,4   7:14.93 firefox
+
+19.12.2023 18:04:32
+MiB Mem :  15383,8 total,   2476,1 free,   7985,7 used,   4922,0 buff/cache
+MiB Swap:   2048,0 total,   1660,3 free,    387,7 used.   6988,2 avail Mem 
+
+  11340 root      20   0 1025580 995,7m   3176 R 100,0   6,5   0:07.21 mem.bash
+  11341 root      20   0 1030200   1,0g   3092 R 100,0   6,5   0:07.21 mem2.ba+
+   6336 etozhes+  20   0 4326644 541204 217848 S  20,0   3,4   7:15.17 firefox
+      1 root      20   0  169816   9812   4984 S   0,0   0,1   0:01.46 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.00 kthreadd
+
+19.12.2023 18:04:33
+MiB Mem :  15383,8 total,   2131,4 free,   8330,0 used,   4922,4 buff/cache
+MiB Swap:   2048,0 total,   1660,3 free,    387,7 used.   6643,9 avail Mem 
+
+  11340 root      20   0 1185220   1,1g   3176 R 100,0   7,5   0:08.39 mem.bash
+  11341 root      20   0 1191820   1,1g   3092 R 100,0   7,5   0:08.39 mem2.ba+
+  11440 etozhes+  39  19 1277156  34504  24096 S  62,5   0,2   0:00.10 tracker+
+   2294 etozhes+  20   0 5740376 160144  51236 S  18,8   1,0   3:51.21 gnome-s+
+   6336 etozhes+  20   0 4326644 541204 217848 S  18,8   3,4   7:15.42 firefox
+
+19.12.2023 18:04:35
+MiB Mem :  15383,8 total,   1815,9 free,   8644,9 used,   4923,0 buff/cache
+MiB Swap:   2048,0 total,   1660,3 free,    387,7 used.   6329,0 avail Mem 
+
+  11340 root      20   0 1344596   1,3g   3176 R 100,0   8,5   0:09.57 mem.bash
+  11341 root      20   0 1352780   1,3g   3092 R 100,0   8,5   0:09.56 mem2.ba+
+   6336 etozhes+  20   0 4326644 541204 217848 S  18,8   3,4   7:15.67 firefox
+   2294 etozhes+  20   0 5740376 160144  51236 S   6,2   1,0   3:51.40 gnome-s+
+  10908 root      20   0       0      0      0 I   6,2   0,0   0:00.28 kworker+
+
+19.12.2023 18:04:36
+MiB Mem :  15383,8 total,   1490,2 free,   8970,2 used,   4923,4 buff/cache
+MiB Swap:   2048,0 total,   1660,3 free,    387,7 used.   6003,6 avail Mem 
+
+  11340 root      20   0 1510708   1,4g   3176 R 100,0   9,6   0:10.74 mem.bash
+  11341 root      20   0 1520212   1,4g   3092 R 100,0   9,6   0:10.73 mem2.ba+
+   6336 etozhes+  20   0 4326644 540360 217848 S  26,7   3,4   7:15.93 firefox
+   2294 etozhes+  20   0 5740376 160040  51236 S   6,7   1,0   3:51.62 gnome-s+
+   6613 etozhes+  20   0 2860052 226064 124100 S   6,7   1,4   5:40.03 Isolate+
+
+19.12.2023 18:04:37
+MiB Mem :  15383,8 total,   1149,0 free,   9311,4 used,   4923,4 buff/cache
+MiB Swap:   2048,0 total,   1660,3 free,    387,7 used.   5662,5 avail Mem 
+
+  11341 root      20   0 1700336   1,6g   3092 R 100,0  10,8   0:11.92 mem2.ba+
+  11340 root      20   0 1678268   1,6g   3176 R 100,0  10,6   0:11.92 mem.bash
+   6336 etozhes+  20   0 4326644 540360 217848 S  18,8   3,4   7:16.17 firefox
+    809 root      -2   0       0      0      0 S   6,2   0,0   0:29.89 gfx
+   8701 etozhes+  20   0   14,3g   2,9g 562928 S   6,2  19,5   4:33.03 java
+
+19.12.2023 18:04:38
+MiB Mem :  15383,8 total,    817,0 free,   9643,4 used,   4923,4 buff/cache
+MiB Swap:   2048,0 total,   1660,3 free,    387,7 used.   5330,5 avail Mem 
+
+  11340 root      20   0 1858792   1,8g   3176 R 100,0  11,8   0:13.09 mem.bash
+  11341 root      20   0 1858924   1,8g   3092 R 100,0  11,8   0:13.09 mem2.ba+
+   2294 etozhes+  20   0 5740376 160072  51236 S  56,2   1,0   3:51.74 gnome-s+
+   6336 etozhes+  20   0 4326644 540360 217848 S  18,8   3,4   7:16.42 firefox
+   2074 etozhes+  20   0 4026420 133820  72900 S   6,2   0,8   3:38.62 Xorg
+
+19.12.2023 18:04:39
+MiB Mem :  15383,8 total,    507,0 free,   9952,9 used,   4923,9 buff/cache
+MiB Swap:   2048,0 total,   1660,5 free,    387,5 used.   5020,9 avail Mem 
+
+  11341 root      20   0 2017244   1,9g   3092 R 100,0  12,8   0:14.27 mem2.ba+
+  11340 root      20   0 2017244   1,9g   3176 R 100,0  12,8   0:14.26 mem.bash
+   6336 etozhes+  20   0 4326644 540360 217848 S  20,0   3,4   7:16.68 firefox
+   2294 etozhes+  20   0 5740376 160072  51236 S   6,7   1,0   3:51.86 gnome-s+
+      1 root      20   0  169816   9812   4984 S   0,0   0,1   0:01.46 systemd
+
+19.12.2023 18:04:40
+MiB Mem :  15383,8 total,    184,1 free,  10275,9 used,   4923,9 buff/cache
+MiB Swap:   2048,0 total,   1660,5 free,    387,5 used.   4698,0 avail Mem 
+
+  11340 root      20   0 2175828   2,1g   3176 R 100,0  13,8   0:15.44 mem.bash
+  11341 root      20   0 2189028   2,1g   3092 R 100,0  13,9   0:15.44 mem2.ba+
+   6336 etozhes+  20   0 4326644 540360 217848 S  18,8   3,4   7:16.92 firefox
+   2294 etozhes+  20   0 5740376 160072  51236 S   6,2   1,0   3:51.87 gnome-s+
+   8701 etozhes+  20   0   14,3g   2,9g 562928 S   6,2  19,5   4:33.09 java
+
+19.12.2023 18:04:42
+MiB Mem :  15383,8 total,    162,0 free,  10531,1 used,   4690,7 buff/cache
+MiB Swap:   2048,0 total,   1657,0 free,    391,0 used.   4444,4 avail Mem 
+
+  11340 root      20   0 2336392   2,2g   3176 R 100,0  14,8   0:16.62 mem.bash
+  11341 root      20   0 2357776   2,2g   3092 R 100,0  14,9   0:16.62 mem2.ba+
+   6336 etozhes+  20   0 4326644 540360 217848 S  25,0   3,4   7:17.16 firefox
+    181 root      20   0       0      0      0 S   6,2   0,0   0:04.86 kswapd0
+   1975 etozhes+   9 -11 4629640  10372   7472 S   6,2   0,1   0:37.42 pulseau+
+
+19.12.2023 18:04:43
+MiB Mem :  15383,8 total,    143,6 free,  10821,9 used,   4418,4 buff/cache
+MiB Swap:   2048,0 total,   1657,0 free,    391,0 used.   4154,4 avail Mem 
+
+  11340 root      20   0 2503560   2,4g   3176 R 100,0  15,9   0:17.80 mem.bash
+  11341 root      20   0 2526132   2,4g   3092 R 100,0  16,0   0:17.79 mem2.ba+
+  11440 etozhes+  39  19 1277192  34504  24096 S  26,7   0,2   0:00.29 tracker+
+   6336 etozhes+  20   0 4326644 540620 217848 S  20,0   3,4   7:17.41 firefox
+    809 root      -2   0       0      0      0 S   6,7   0,0   0:29.97 gfx
+
+19.12.2023 18:04:44
+MiB Mem :  15383,8 total,    149,9 free,  11127,5 used,   4106,4 buff/cache
+MiB Swap:   2048,0 total,   1657,3 free,    390,7 used.   3849,4 avail Mem 
+
+  11340 root      20   0 2666896   2,5g   3176 R 100,0  16,9   0:18.97 mem.bash
+  11341 root      20   0 2688940   2,6g   3092 R 100,0  17,0   0:18.97 mem2.ba+
+  11440 etozhes+  39  19 1277192  34504  24096 S  25,0   0,2   0:00.36 tracker+
+   6336 etozhes+  20   0 4326644 540620 217848 S  18,8   3,4   7:17.66 firefox
+    181 root      20   0       0      0      0 S   6,2   0,0   0:05.00 kswapd0
+
+19.12.2023 18:04:45
+MiB Mem :  15383,8 total,    156,0 free,  11434,4 used,   3793,4 buff/cache
+MiB Swap:   2048,0 total,   1657,3 free,    390,7 used.   3544,1 avail Mem 
+
+  11341 root      20   0 2853860   2,7g   3092 R 100,0  18,1   0:20.15 mem2.ba+
+  11340 root      20   0 2831288   2,7g   3176 R  93,8  17,9   0:20.14 mem.bash
+   6336 etozhes+  20   0 4326644 540620 217848 S  25,0   3,4   7:17.92 firefox
+   2294 etozhes+  20   0 5740376 159080  51184 S  12,5   1,0   3:52.50 gnome-s+
+     22 root      20   0       0      0      0 S   6,2   0,0   0:00.11 ksoftir+
+
+19.12.2023 18:04:46
+MiB Mem :  15383,8 total,    154,8 free,  11756,5 used,   3472,6 buff/cache
+MiB Swap:   2048,0 total,   1657,3 free,    390,7 used.   3223,0 avail Mem 
+
+  11340 root      20   0 2997660   2,9g   3176 R 100,0  19,0   0:21.33 mem.bash
+  11341 root      20   0 3020232   2,9g   3092 R 100,0  19,1   0:21.32 mem2.ba+
+   6336 etozhes+  20   0 4326644 540620 217848 S  26,7   3,4   7:18.17 firefox
+    181 root      20   0       0      0      0 S   6,7   0,0   0:05.13 kswapd0
+   2294 etozhes+  20   0 5740376 159080  51184 S   6,7   1,0   3:52.55 gnome-s+
+
+19.12.2023 18:04:47
+MiB Mem :  15383,8 total,    155,9 free,  12083,9 used,   3144,0 buff/cache
+MiB Swap:   2048,0 total,   1657,3 free,    390,7 used.   2897,4 avail Mem 
+
+  11340 root      20   0 3164428   3,0g   3176 R  93,8  20,0   0:22.50 mem.bash
+  11341 root      20   0 3186736   3,0g   3092 R  93,8  20,2   0:22.50 mem2.ba+
+   6336 etozhes+  20   0 4326644 540620 217848 S  18,8   3,4   7:18.41 firefox
+   2294 etozhes+  20   0 5740376 159124  51184 S  12,5   1,0   3:52.73 gnome-s+
+    181 root      20   0       0      0      0 S   6,2   0,0   0:05.19 kswapd0
+
+19.12.2023 18:04:49
+MiB Mem :  15383,8 total,    144,5 free,  12419,5 used,   2819,8 buff/cache
+MiB Swap:   2048,0 total,   1657,3 free,    390,7 used.   2564,7 avail Mem 
+
+  11341 root      20   0 3364092   3,2g   3092 R 100,0  21,3   0:23.68 mem2.ba+
+  11340 root      20   0 3331064   3,2g   3176 R 100,0  21,1   0:23.67 mem.bash
+   6336 etozhes+  20   0 4326644 540620 217848 S  26,7   3,4   7:18.67 firefox
+    181 root      20   0       0      0      0 R   6,7   0,0   0:05.26 kswapd0
+    809 root      -2   0       0      0      0 R   6,7   0,0   0:30.05 gfx
+
+19.12.2023 18:04:50
+MiB Mem :  15383,8 total,    172,4 free,  12740,2 used,   2471,2 buff/cache
+MiB Swap:   2048,0 total,   1657,3 free,    390,7 used.   2246,2 avail Mem 
+
+  11341 root      20   0 3522676   3,4g   3092 R 100,0  22,3   0:24.85 mem2.ba+
+  11340 root      20   0 3502056   3,3g   3176 R  93,3  22,2   0:24.84 mem.bash
+    181 root      20   0       0      0      0 S  20,0   0,0   0:05.36 kswapd0
+   6336 etozhes+  20   0 4326644 540620 217848 S  20,0   3,4   7:18.92 firefox
+   2074 etozhes+  20   0 4028468 133716  72796 S   6,7   0,8   3:38.89 Xorg
+
+19.12.2023 18:04:51
+MiB Mem :  15383,8 total,    182,7 free,  13045,3 used,   2155,8 buff/cache
+MiB Swap:   2048,0 total,   1656,8 free,    391,2 used.   1942,3 avail Mem 
+
+  11340 root      20   0 3661432   3,5g   3176 R 100,0  23,2   0:26.03 mem.bash
+  11341 root      20   0 3680996   3,5g   3092 R 100,0  23,3   0:26.03 mem2.ba+
+   6336 etozhes+  20   0 4326644 539228 216456 S  18,8   3,4   7:19.18 firefox
+    181 root      20   0       0      0      0 S  12,5   0,0   0:05.47 kswapd0
+   1977 etozhes+  39  19  511364   7660   5640 S  12,5   0,0   0:00.44 tracker+
+
+19.12.2023 18:04:52
+MiB Mem :  15383,8 total,    151,7 free,  13346,6 used,   1885,5 buff/cache
+MiB Swap:   2048,0 total,   1653,8 free,    394,2 used.   1643,6 avail Mem 
+
+  11340 root      20   0 3818700   3,6g   3088 R 100,0  24,2   0:27.21 mem.bash
+  11341 root      20   0 3839448   3,7g   3032 R 100,0  24,3   0:27.21 mem2.ba+
+   8701 etozhes+  20   0   14,3g   2,9g 507568 S  56,2  19,1   4:33.76 java
+    181 root      20   0       0      0      0 S  25,0   0,0   0:05.62 kswapd0
+   6336 etozhes+  20   0 4326644 517088 194316 S  25,0   3,3   7:19.44 firefox
+
+19.12.2023 18:04:53
+MiB Mem :  15383,8 total,    160,7 free,  13706,7 used,   1516,5 buff/cache
+MiB Swap:   2048,0 total,   1648,3 free,    399,7 used.   1289,1 avail Mem 
+
+  11340 root      20   0 3974248   3,8g   2968 R 100,0  25,2   0:28.38 mem.bash
+  11341 root      20   0 3997900   3,8g   2912 R 100,0  25,3   0:28.38 mem2.ba+
+   6336 etozhes+  20   0 4354292 513496 162056 S  26,7   3,3   7:19.90 firefox
+    181 root      20   0       0      0      0 S  20,0   0,0   0:05.89 kswapd0
+   2294 etozhes+  20   0 5740376 143976  35980 S  13,3   0,9   3:53.21 gnome-s+
+
+19.12.2023 18:04:55
+MiB Mem :  15383,8 total,    155,4 free,  14016,6 used,   1211,8 buff/cache
+MiB Swap:   2048,0 total,   1643,5 free,    404,5 used.    981,2 avail Mem 
+
+  11341 root      20   0 4156352   4,0g   2912 R 100,0  26,3   0:29.56 mem2.ba+
+  11340 root      20   0 4137056   3,9g   2968 R  93,8  26,2   0:29.56 mem.bash
+    181 root      20   0       0      0      0 S  18,8   0,0   0:06.10 kswapd0
+   6336 etozhes+  20   0 4354292 474684 123244 S  18,8   3,0   7:20.16 firefox
+   2074 etozhes+  20   0 4028468 113128  58844 S   6,2   0,7   3:39.01 Xorg
+
+19.12.2023 18:04:56
+MiB Mem :  15383,8 total,    488,3 free,  13969,0 used,    926,5 buff/cache
+MiB Swap:   2048,0 total,   1622,3 free,    425,7 used.   1047,3 avail Mem 
+
+   6336 etozhes+  20   0 4284720 260152  86376 R 156,2   1,7   7:20.63 firefox
+  11340 root      20   0 4295640   4,1g   2876 R 100,0  27,2   0:30.73 mem.bash
+  11341 root      20   0 4314808   4,1g   2820 R  93,8  27,3   0:30.73 mem2.ba+
+   6613 etozhes+  20   0 2847520 154588  59800 S  87,5   1,0   5:40.87 Isolate+
+   6537 etozhes+  20   0 2638584  84528  49720 S  37,5   0,5   0:18.43 WebExte+
+
+19.12.2023 18:04:57
+MiB Mem :  15383,8 total,    177,4 free,  14271,4 used,    935,0 buff/cache
+MiB Swap:   2048,0 total,   1622,5 free,    425,5 used.    745,6 avail Mem 
+
+  11341 root      20   0 4473260   4,3g   2820 R 100,0  28,4   0:31.91 mem2.ba+
+  11340 root      20   0 4445644   4,2g   2876 R  93,8  28,2   0:31.91 mem.bash
+   6336 etozhes+  20   0 4282672 261052  86760 S  25,0   1,7   7:20.90 firefox
+   6613 etozhes+  20   0 2847520 156280  61016 S   6,2   1,0   5:40.92 Isolate+
+  10570 etozhes+  20   0 1208184  50628  17720 S   6,2   0,3   0:05.51 nautilus
+
+19.12.2023 18:04:58
+MiB Mem :  15383,8 total,    163,4 free,  14551,5 used,    668,9 buff/cache
+MiB Swap:   2048,0 total,   1617,3 free,    430,7 used.    467,1 avail Mem 
+
+  11341 root      20   0 4632108   4,4g   2820 R 100,0  29,4   0:33.09 mem2.ba+
+  11340 root      20   0 4611752   4,4g   2876 R  93,8  29,2   0:33.08 mem.bash
+    181 root      20   0       0      0      0 S  18,8   0,0   0:06.53 kswapd0
+   6336 etozhes+  20   0 4282672 256084  81780 S  18,8   1,6   7:21.18 firefox
+    809 root      -2   0       0      0      0 S   6,2   0,0   0:30.18 gfx
+
+19.12.2023 18:04:59
+MiB Mem :  15383,8 total,    159,7 free,  14797,7 used,    426,4 buff/cache
+MiB Swap:   2048,0 total,   1563,3 free,    484,7 used.    212,9 avail Mem 
+
+  11340 root      20   0 4779736   4,6g   2860 R 100,0  30,3   0:34.26 mem.bash
+  11341 root      20   0 4797688   4,6g   2804 R 100,0  30,4   0:34.26 mem2.ba+
+   2294 etozhes+  20   0 5740376 120868  18584 S  86,7   0,8   3:53.70 gnome-s+
+    181 root      20   0       0      0      0 R  40,0   0,0   0:06.85 kswapd0
+   6336 etozhes+  20   0 4282672 221420  47320 S  26,7   1,4   7:21.47 firefox
+
+19.12.2023 18:05:00
+MiB Mem :  15383,8 total,    143,3 free,  14894,8 used,    345,7 buff/cache
+MiB Swap:   2048,0 total,   1351,0 free,    697,0 used.    129,8 avail Mem 
+
+  11340 root      20   0 4935812   4,7g   2860 R 100,0  31,3   0:35.44 mem.bash
+  11341 root      20   0 4956140   4,7g   2804 R  93,8  31,4   0:35.44 mem2.ba+
+   6336 etozhes+  20   0 4282672 220040  45984 S  18,8   1,4   7:21.74 firefox
+    181 root      20   0       0      0      0 R   6,2   0,0   0:07.10 kswapd0
+   2294 etozhes+  20   0 5740376 106584  18408 S   6,2   0,7   3:53.81 gnome-s+
+
+19.12.2023 18:05:02
+MiB Mem :  15383,8 total,    165,0 free,  14906,6 used,    312,3 buff/cache
+MiB Swap:   2048,0 total,   1014,3 free,   1033,7 used.    129,0 avail Mem 
+
+  11340 root      20   0 5107068   4,9g   2860 R  93,8  32,4   0:36.61 mem.bash
+  11341 root      20   0 5123436   4,9g   2804 R  93,8  32,5   0:36.61 mem2.ba+
+   6336 etozhes+  20   0 4282672 213624  45944 S  37,5   1,4   7:22.04 firefox
+    181 root      20   0       0      0      0 S  18,8   0,0   0:07.31 kswapd0
+    809 root      -2   0       0      0      0 S   6,2   0,0   0:30.22 gfx
+
+19.12.2023 18:05:03
+MiB Mem :  15383,8 total,    155,7 free,  14933,6 used,    294,5 buff/cache
+MiB Swap:   2048,0 total,    734,8 free,   1313,2 used.    112,0 avail Mem 
+
+  11340 root      20   0 5265520   5,0g   2860 R 100,0  33,4   0:37.79 mem.bash
+  11341 root      20   0 5285056   5,0g   2804 R 100,0  33,5   0:37.79 mem2.ba+
+   2294 etozhes+  20   0 5740376  95720  19364 S  66,7   0,6   3:53.95 gnome-s+
+   6336 etozhes+  20   0 4282672 122928  42960 S  26,7   0,8   7:22.31 firefox
+    181 root      20   0       0      0      0 S  20,0   0,0   0:07.52 kswapd0
+
+19.12.2023 18:05:04
+MiB Mem :  15383,8 total,    151,2 free,  14948,8 used,    283,8 buff/cache
+MiB Swap:   2048,0 total,    432,8 free,   1615,2 used.    102,4 avail Mem 
+
+  11340 root      20   0 5423976   5,2g   2860 R 100,0  34,4   0:38.96 mem.bash
+  11341 root      20   0 5446812   5,2g   2804 R 100,0  34,5   0:38.97 mem2.ba+
+   6336 etozhes+  20   0 4282672 122780  42908 S  26,7   0,8   7:22.58 firefox
+    181 root      20   0       0      0      0 S  20,0   0,0   0:07.71 kswapd0
+   2294 etozhes+  20   0 5740376  95708  19364 S   6,7   0,6   3:54.06 gnome-s+
+
+19.12.2023 18:05:05
+MiB Mem :  15383,8 total,    155,7 free,  14955,4 used,    272,7 buff/cache
+MiB Swap:   2048,0 total,    122,5 free,   1925,5 used.    101,6 avail Mem 
+
+  11341 root      20   0 5611600   5,3g   2792 R 100,0  35,6   0:40.15 mem2.ba+
+  11340 root      20   0 5582428   5,3g   2848 R  93,8  35,4   0:40.14 mem.bash
+    181 root      20   0       0      0      0 S  25,0   0,0   0:07.91 kswapd0
+   6336 etozhes+  20   0 4282672 121800  41980 S  18,8   0,8   7:22.85 firefox
+   2294 etozhes+  20   0 5740376  95744  19332 S  12,5   0,6   3:54.26 gnome-s+
+
+19.12.2023 18:05:07
+MiB Mem :  15383,8 total,    131,9 free,  15111,5 used,    140,4 buff/cache
+MiB Swap:   2048,0 total,      0,0 free,   2048,0 used.     11,2 avail Mem 
+
+    181 root      20   0       0      0      0 S 100,0   0,0   0:09.04 kswapd0
+   6336 etozhes+  20   0 4282672  85456   5044 D 289,5   0,5   7:23.67 firefox
+  11037 etozhes+  20   0   32,8g  59432   1848 R 200,0   0,4   0:03.03 chrome
+   4149 etozhes+  20   0 8764164  28312   4284 S 147,4   0,2   0:20.79 soffice+
+   8701 etozhes+  20   0   14,3g   1,6g     44 S 126,3  10,6   4:34.47 java
+
+19.12.2023 18:05:08
+MiB Mem :  15383,8 total,   5387,5 free,   9648,2 used,    348,1 buff/cache
+MiB Swap:   2048,0 total,      1,5 free,   2046,5 used.   5393,5 avail Mem 
+
+  11340 root      20   0 5870528   5,6g   1560 R  93,8  37,2   0:42.63 mem.bash
+   5762 etozhes+  20   0  181,3g  70460  15636 S  37,5   0,4   3:08.13 telegra+
+  11440 etozhes+  39  19 1277192  14688   3696 S  31,2   0,1   0:00.82 tracker+
+   6336 etozhes+  20   0 4282672 105340  24820 S  12,5   0,7   7:23.98 firefox
+   2074 etozhes+  20   0 4028468  89616  41820 S   6,2   0,6   3:39.41 Xorg
+
+19.12.2023 18:05:09
+MiB Mem :  15383,8 total,   5218,4 free,   9816,2 used,    349,1 buff/cache
+MiB Swap:   2048,0 total,      1,6 free,   2046,4 used.   5226,9 avail Mem 
+
+  11340 root      20   0 6039832   5,8g   1560 R 100,0  38,3   0:43.81 mem.bash
+   6336 etozhes+  20   0 4282672 105756  25392 S  12,5   0,7   7:24.20 firefox
+   5443 root      20   0       0      0      0 I   6,2   0,0   0:03.44 kworker+
+  11873 root      20   0   12132   3920   3196 R   6,2   0,0   0:00.01 top
+      1 root      20   0  169816   4288      4 S   0,0   0,0   0:01.46 systemd
+
+19.12.2023 18:05:11
+MiB Mem :  15383,8 total,   5045,1 free,   9983,8 used,    354,9 buff/cache
+MiB Swap:   2048,0 total,      1,7 free,   2046,2 used.   5059,4 avail Mem 
+
+  11340 root      20   0 6216236   5,9g   1560 R 100,0  39,4   0:44.98 mem.bash
+   6336 etozhes+  20   0 4277156 107940  27448 S  18,8   0,7   7:24.43 firefox
+   1975 etozhes+   9 -11 4629640   5912   3944 S   6,2   0,0   0:37.88 pulseau+
+   2074 etozhes+  20   0 4028468  89616  41820 S   6,2   0,6   3:39.46 Xorg
+   5383 etozhes+  20   0  821356   5620   1760 S   6,2   0,0   0:02.17 gedit
+
+19.12.2023 18:05:12
+MiB Mem :  15383,8 total,   4877,5 free,  10143,2 used,    363,1 buff/cache
+MiB Swap:   2048,0 total,      2,6 free,   2045,4 used.   4900,0 avail Mem 
+
+  11340 root      20   0 6374688   6,1g   1560 R  93,8  40,4   0:46.15 mem.bash
+   6336 etozhes+  20   0 4277156 107940  27448 S  18,8   0,7   7:24.65 firefox
+   2294 etozhes+  20   0 5740376  99484  23000 S   6,2   0,6   3:54.89 gnome-s+
+   6613 etozhes+  20   0 2847520  92132  33688 S   6,2   0,6   5:41.69 Isolate+
+   8701 etozhes+  20   0   14,3g   1,6g     44 S   6,2  10,6   4:34.77 java
+
+19.12.2023 18:05:13
+MiB Mem :  15383,8 total,   4702,7 free,  10313,6 used,    367,6 buff/cache
+MiB Swap:   2048,0 total,      6,7 free,   2041,3 used.   4729,5 avail Mem 
+
+  11340 root      20   0 6546872   6,2g   1560 R 100,0  41,5   0:47.33 mem.bash
+   6336 etozhes+  20   0 4277156 107940  27448 S  20,0   0,7   7:24.87 firefox
+     14 root      20   0       0      0      0 I   6,7   0,0   0:04.30 rcu_sch+
+   2074 etozhes+  20   0 4026420  90284  42488 S   6,7   0,6   3:39.50 Xorg
+   6613 etozhes+  20   0 2847520  92132  33688 S   6,7   0,6   5:41.73 Isolate+
+
+19.12.2023 18:05:14
+MiB Mem :  15383,8 total,   4519,1 free,  10490,6 used,    374,2 buff/cache
+MiB Swap:   2048,0 total,      6,7 free,   2041,3 used.   4552,6 avail Mem 
+
+  11340 root      20   0 6726972   6,4g   1560 R  93,8  42,6   0:48.50 mem.bash
+   6336 etozhes+  20   0 4277156 107940  27448 S  18,8   0,7   7:25.10 firefox
+      1 root      20   0  169816   4288      4 S   0,0   0,0   0:01.46 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.00 kthreadd
+      3 root       0 -20       0      0      0 I   0,0   0,0   0:00.00 rcu_gp
+
+19.12.2023 18:05:15
+MiB Mem :  15383,8 total,   4348,8 free,  10660,0 used,    375,0 buff/cache
+MiB Swap:   2048,0 total,      6,8 free,   2041,2 used.   4383,2 avail Mem 
+
+  11340 root      20   0 6897436   6,6g   1560 R 100,0  43,7   0:49.68 mem.bash
+   6336 etozhes+  20   0 4277156 107940  27448 S  20,0   0,7   7:25.32 firefox
+   6613 etozhes+  20   0 2847520  93064  34528 S  13,3   0,6   5:41.82 Isolate+
+   2074 etozhes+  20   0 4026420  90284  42488 S   6,7   0,6   3:39.55 Xorg
+  11935 root      20   0   12132   3900   3176 R   6,7   0,0   0:00.01 top
+
+19.12.2023 18:05:16
+MiB Mem :  15383,8 total,   4165,9 free,  10836,3 used,    381,6 buff/cache
+MiB Swap:   2048,0 total,      7,1 free,   2040,9 used.   4206,7 avail Mem 
+
+  11340 root      20   0 7083504   6,7g   1560 R  93,8  44,9   0:50.85 mem.bash
+  11440 etozhes+  39  19 1277192  14688   3696 S  25,0   0,1   0:00.91 tracker+
+   6336 etozhes+  20   0 4277156 107940  27448 S  12,5   0,7   7:25.53 firefox
+   6613 etozhes+  20   0 2847520  93064  34528 R   6,2   0,6   5:41.85 Isolate+
+  11432 etozhes+  20   0  434656  17128   6356 S   6,2   0,1   0:00.21 tracker+
+
+19.12.2023 18:05:18
+MiB Mem :  15383,8 total,   3995,9 free,  11003,2 used,    384,7 buff/cache
+MiB Swap:   2048,0 total,      7,5 free,   2040,5 used.   4039,9 avail Mem 
+
+  11340 root      20   0 7246180   6,9g   1560 R 100,0  45,9   0:52.03 mem.bash
+   6336 etozhes+  20   0 4277156 109752  29012 S  20,0   0,7   7:25.76 firefox
+   5383 etozhes+  20   0  821356   5620   1760 S   6,7   0,0   0:02.19 gedit
+   6613 etozhes+  20   0 2847520  93064  34528 S   6,7   0,6   5:41.89 Isolate+
+  11961 root      20   0   12132   3944   3220 R   6,7   0,0   0:00.01 top
+
+19.12.2023 18:05:19
+MiB Mem :  15383,8 total,   3799,6 free,  11172,3 used,    411,9 buff/cache
+MiB Swap:   2048,0 total,     12,3 free,   2035,7 used.   3870,2 avail Mem 
+
+  11340 root      20   0 7415192   7,1g   1560 R 100,0  47,0   0:53.21 mem.bash
+   6336 etozhes+  20   0 4277172 128156  45136 S  25,0   0,8   7:26.02 firefox
+   6489 etozhes+  20   0 2455792  39168  25772 S  12,5   0,2   0:01.17 Privile+
+   2294 etozhes+  20   0 5740376 100192  23656 S   6,2   0,6   3:55.15 gnome-s+
+   4322 root      20   0       0      0      0 I   6,2   0,0   0:03.45 kworker+
+
+19.12.2023 18:05:20
+MiB Mem :  15383,8 total,   3620,4 free,  11350,0 used,    413,4 buff/cache
+MiB Swap:   2048,0 total,     12,8 free,   2035,2 used.   3693,2 avail Mem 
+
+  11340 root      20   0 7594104   7,2g   1560 R 100,0  48,2   0:54.38 mem.bash
+   6336 etozhes+  20   0 4277172 128420  45136 S  18,8   0,8   7:26.24 firefox
+   1975 etozhes+   9 -11 4629640   5912   3944 S   6,2   0,0   0:37.94 pulseau+
+   2074 etozhes+  20   0 4026420  90284  42488 S   6,2   0,6   3:39.64 Xorg
+   6613 etozhes+  20   0 2847520  93064  34528 S   6,2   0,6   5:41.97 Isolate+
+
+19.12.2023 18:05:21
+MiB Mem :  15383,8 total,   3443,5 free,  11525,4 used,    414,9 buff/cache
+MiB Swap:   2048,0 total,     12,8 free,   2035,2 used.   3517,8 avail Mem 
+
+  11340 root      20   0 7772356   7,4g   1560 R 100,0  49,3   0:55.55 mem.bash
+   2294 etozhes+  20   0 5740376 100232  23664 S  31,2   0,6   3:55.21 gnome-s+
+   6336 etozhes+  20   0 4277172 128420  45136 S  18,8   0,8   7:26.47 firefox
+   8701 etozhes+  20   0   14,3g   1,6g   3236 S   6,2  10,7   4:34.96 java
+      1 root      20   0  169816   4288      4 S   0,0   0,0   0:01.46 systemd
+
+19.12.2023 18:05:22
+MiB Mem :  15383,8 total,   3273,7 free,  11693,1 used,    417,1 buff/cache
+MiB Swap:   2048,0 total,     14,0 free,   2034,0 used.   3350,1 avail Mem 
+
+  11340 root      20   0 7940444   7,6g   1560 R 100,0  50,3   0:56.73 mem.bash
+   6336 etozhes+  20   0 4277172 128420  45136 S  20,0   0,8   7:26.70 firefox
+  12012 root      20   0   12132   3812   3088 R   6,7   0,0   0:00.01 top
+      1 root      20   0  169816   4288      4 S   0,0   0,0   0:01.46 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.00 kthreadd
+
+19.12.2023 18:05:24
+MiB Mem :  15383,8 total,   3052,4 free,  11893,8 used,    437,6 buff/cache
+MiB Swap:   2048,0 total,     14,7 free,   2033,3 used.   3149,4 avail Mem 
+
+  11340 root      20   0 8117668   7,7g   1560 R  93,8  51,5   0:57.90 mem.bash
+   6336 etozhes+  20   0 4277188 133152  49112 S  18,8   0,8   7:26.97 firefox
+    809 root      -2   0       0      0      0 S   6,2   0,0   0:30.49 gfx
+   2074 etozhes+  20   0 4026420  90284  42488 S   6,2   0,6   3:39.70 Xorg
+  10570 etozhes+  20   0 1208184  43092  10180 S   6,2   0,3   0:06.11 nautilus
+
+19.12.2023 18:05:25
+MiB Mem :  15383,8 total,   2822,1 free,  12051,0 used,    510,7 buff/cache
+MiB Swap:   2048,0 total,     16,1 free,   2031,9 used.   2991,6 avail Mem 
+
+  11340 root      20   0 8276120   7,9g   1560 R 100,0  52,5   0:59.08 mem.bash
+   6336 etozhes+  20   0 4277204 134232  49924 S  18,8   0,9   7:27.21 firefox
+  11038 etozhes+  20   0   32,4g  42208  25316 S  18,8   0,3   0:00.78 chrome
+  10570 etozhes+  20   0 1208184  43092  10180 S   6,2   0,3   0:06.13 nautilus
+      1 root      20   0  169816   4288      4 S   0,0   0,0   0:01.46 systemd
+
+19.12.2023 18:05:26
+MiB Mem :  15383,8 total,   2647,1 free,  12215,4 used,    521,3 buff/cache
+MiB Swap:   2048,0 total,     16,2 free,   2031,8 used.   2827,6 avail Mem 
+
+  11340 root      20   0 8443020   8,0g   1560 R 100,0  53,5   1:00.26 mem.bash
+   6336 etozhes+  20   0 4277204 134232  49924 S  18,8   0,9   7:27.43 firefox
+   2294 etozhes+  20   0 5740376 100448  23780 S  12,5   0,6   3:55.75 gnome-s+
+    809 root      -2   0       0      0      0 S   6,2   0,0   0:30.52 gfx
+   2074 etozhes+  20   0 4026420  90284  42488 S   6,2   0,6   3:39.76 Xorg
+
+19.12.2023 18:05:27
+MiB Mem :  15383,8 total,   2475,0 free,  12386,7 used,    522,2 buff/cache
+MiB Swap:   2048,0 total,     16,3 free,   2031,7 used.   2656,5 avail Mem 
+
+  11340 root      20   0 8615860   8,2g   1560 R 100,0  54,6   1:01.43 mem.bash
+   6336 etozhes+  20   0 4277204 134232  49924 S  18,8   0,9   7:27.65 firefox
+   1034 root      20   0  336404   5260   2552 S  12,5   0,0   0:03.08 Network+
+   1029 message+  20   0    9964   2300      0 S   6,2   0,0   0:03.01 dbus-da+
+   2294 etozhes+  20   0 5740376 100448  23780 S   6,2   0,6   3:55.80 gnome-s+
+
+19.12.2023 18:05:28
+MiB Mem :  15383,8 total,   2307,7 free,  12551,9 used,    524,3 buff/cache
+MiB Swap:   2048,0 total,     16,3 free,   2031,7 used.   2491,3 avail Mem 
+
+  11340 root      20   0 8783160   8,4g   1560 R 100,0  55,7   1:02.61 mem.bash
+   6336 etozhes+  20   0 4277204 133828  49924 S  13,3   0,8   7:27.87 firefox
+   6613 etozhes+  20   0 2847520  94412  35760 S   6,7   0,6   5:42.25 Isolate+
+      1 root      20   0  169816   4288      4 S   0,0   0,0   0:01.46 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.00 kthreadd
+
+19.12.2023 18:05:29
+MiB Mem :  15383,8 total,   2136,2 free,  12722,9 used,    524,7 buff/cache
+MiB Swap:   2048,0 total,     16,4 free,   2031,6 used.   2320,3 avail Mem 
+
+  11340 root      20   0 8956792   8,5g   1560 R  93,8  56,8   1:03.77 mem.bash
+   2294 etozhes+  20   0 5740376 100488  23780 S  18,8   0,6   3:56.15 gnome-s+
+   6336 etozhes+  20   0 4277204 133828  49924 S  12,5   0,8   7:28.09 firefox
+    809 root      -2   0       0      0      0 S   6,2   0,0   0:30.56 gfx
+      1 root      20   0  169816   4288      4 S   0,0   0,0   0:01.46 systemd
+
+19.12.2023 18:05:31
+MiB Mem :  15383,8 total,   1966,5 free,  12891,7 used,    525,6 buff/cache
+MiB Swap:   2048,0 total,     16,4 free,   2031,6 used.   2151,5 avail Mem 
+
+  11340 root      20   0 9129656   8,7g   1560 R  93,8  57,9   1:04.95 mem.bash
+   6336 etozhes+  20   0 4277204 133828  49924 S  18,8   0,8   7:28.32 firefox
+   8701 etozhes+  20   0   14,3g   1,6g   6796 S   6,2  10,7   4:35.18 java
+  12119 root      20   0   12132   3944   3220 R   6,2   0,0   0:00.01 top
+      1 root      20   0  169816   4288      4 S   0,0   0,0   0:01.46 systemd
+
+19.12.2023 18:05:32
+MiB Mem :  15383,8 total,   1784,9 free,  13061,8 used,    537,2 buff/cache
+MiB Swap:   2048,0 total,     18,1 free,   2029,9 used.   1981,0 avail Mem 
+
+  11340 root      20   0 9306064   8,9g   1560 R 100,0  59,0   1:06.13 mem.bash
+   6336 etozhes+  20   0 4277204 133836  49924 S  12,5   0,8   7:28.54 firefox
+    809 root      -2   0       0      0      0 S   6,2   0,0   0:30.59 gfx
+      1 root      20   0  169816   4288      4 S   0,0   0,0   0:01.46 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.00 kthreadd
+
+19.12.2023 18:05:33
+MiB Mem :  15383,8 total,   1624,5 free,  13220,8 used,    538,5 buff/cache
+MiB Swap:   2048,0 total,     18,8 free,   2029,2 used.   1822,3 avail Mem 
+
+  11340 root      20   0 9467156   9,0g   1560 R 100,0  60,0   1:07.30 mem.bash
+   6336 etozhes+  20   0 4277204 133836  49924 S  18,8   0,8   7:28.76 firefox
+   2294 etozhes+  20   0 5742424 108028  30420 S  12,5   0,7   3:56.40 gnome-s+
+   2074 etozhes+  20   0 4026420  90284  42488 S   6,2   0,6   3:39.90 Xorg
+   6992 root      20   0       0      0      0 I   6,2   0,0   0:04.78 kworker+
+
+19.12.2023 18:05:34
+MiB Mem :  15383,8 total,   1445,8 free,  13399,5 used,    538,5 buff/cache
+MiB Swap:   2048,0 total,     18,9 free,   2029,1 used.   1643,6 avail Mem 
+
+  11340 root      20   0 9643164   9,2g   1560 R  93,8  61,2   1:08.47 mem.bash
+  11440 etozhes+  39  19 1277192  15516   4524 S  25,0   0,1   0:01.20 tracker+
+   6336 etozhes+  20   0 4277204 134196  50068 S  12,5   0,9   7:28.97 firefox
+    809 root      -2   0       0      0      0 S   6,2   0,0   0:30.62 gfx
+   8701 etozhes+  20   0   14,3g   1,6g   6796 S   6,2  10,7   4:35.25 java
+
+19.12.2023 18:05:35
+MiB Mem :  15383,8 total,   1273,4 free,  13571,8 used,    538,6 buff/cache
+MiB Swap:   2048,0 total,     19,1 free,   2028,9 used.   1471,4 avail Mem 
+
+  11340 root      20   0 9821020   9,4g   1560 R 100,0  62,3   1:09.65 mem.bash
+   2294 etozhes+  20   0 5742424 108024  30420 S  60,0   0,7   3:56.53 gnome-s+
+   6336 etozhes+  20   0 4277188 133124  50068 S  20,0   0,8   7:29.20 firefox
+  12169 root      20   0   12132   3808   3080 R   6,7   0,0   0:00.01 top
+      1 root      20   0  169816   4288      4 S   0,0   0,0   0:01.46 systemd
+
+19.12.2023 18:05:36
+MiB Mem :  15383,8 total,   1103,0 free,  13741,8 used,    539,0 buff/cache
+MiB Swap:   2048,0 total,     19,1 free,   2028,9 used.   1301,4 avail Mem 
+
+  11340 root      20   0 9993464   9,5g   1560 R 100,0  63,4   1:10.83 mem.bash
+   6336 etozhes+  20   0 4277188 133388  50068 S  18,8   0,8   7:29.42 firefox
+   6613 etozhes+  20   0 2847520  94412  35760 S  12,5   0,6   5:42.52 Isolate+
+   8701 etozhes+  20   0   14,3g   1,6g   6796 S   6,2  10,7   4:35.29 java
+      1 root      20   0  169816   4288      4 S   0,0   0,0   0:01.46 systemd
+
+19.12.2023 18:05:38
+MiB Mem :  15383,8 total,    922,5 free,  13922,3 used,    539,0 buff/cache
+MiB Swap:   2048,0 total,     19,2 free,   2028,8 used.   1121,0 avail Mem 
+
+  11340 root      20   0 9939,1m   9,7g   1560 R 100,0  64,5   1:12.00 mem.bash
+   6336 etozhes+  20   0 4277188 133388  50068 S  20,0   0,8   7:29.64 firefox
+   2074 etozhes+  20   0 4026420  90284  42488 S   6,7   0,6   3:39.98 Xorg
+  12195 root      20   0   12132   3900   3176 R   6,7   0,0   0:00.01 top
+      1 root      20   0  169816   4288      4 S   0,0   0,0   0:01.46 systemd
+
+19.12.2023 18:05:39
+MiB Mem :  15383,8 total,    769,4 free,  14074,8 used,    539,6 buff/cache
+MiB Swap:   2048,0 total,     19,3 free,   2028,7 used.    968,4 avail Mem 
+
+  11340 root      20   0    9,9g   9,8g   1560 R 100,0  65,6   1:13.18 mem.bash
+   2294 etozhes+  20   0 5742424 108072  30420 R  12,5   0,7   3:56.83 gnome-s+
+   6336 etozhes+  20   0 4277188 133388  50068 S  12,5   0,8   7:29.86 firefox
+   8701 etozhes+  20   0   14,3g   1,6g   6796 S   6,2  10,7   4:35.33 java
+      1 root      20   0  169816   4288      4 S   0,0   0,0   0:01.46 systemd
+
+19.12.2023 18:05:40
+MiB Mem :  15383,8 total,    598,8 free,  14245,4 used,    539,6 buff/cache
+MiB Swap:   2048,0 total,     19,3 free,   2028,7 used.    797,7 avail Mem 
+
+  11340 root      20   0   10,0g  10,0g   1560 R 100,0  66,7   1:14.35 mem.bash
+   6336 etozhes+  20   0 4277188 133540  50128 S  20,0   0,8   7:30.09 firefox
+  11440 etozhes+  39  19 1277192  15516   4524 R   6,7   0,1   0:01.25 tracker+
+  12220 root      20   0   12132   3948   3220 R   6,7   0,0   0:00.01 top
+      1 root      20   0  169816   4288      4 S   0,0   0,0   0:01.46 systemd
+
+19.12.2023 18:05:41
+MiB Mem :  15383,8 total,    406,9 free,  14417,8 used,    559,2 buff/cache
+MiB Swap:   2048,0 total,     19,4 free,   2028,6 used.    625,3 avail Mem 
+
+  11340 root      20   0   10,2g  10,2g   1560 R 100,0  67,8   1:15.53 mem.bash
+   6336 etozhes+  20   0 4277188 133540  50128 S  12,5   0,8   7:30.30 firefox
+    809 root      -2   0       0      0      0 S   6,2   0,0   0:30.71 gfx
+   5421 root      20   0       0      0      0 I   6,2   0,0   0:02.67 kworker+
+  12233 root      20   0   12132   3832   3108 R   6,2   0,0   0:00.01 top
+
+19.12.2023 18:05:42
+MiB Mem :  15383,8 total,    239,5 free,  14584,4 used,    559,9 buff/cache
+MiB Swap:   2048,0 total,     20,4 free,   2027,6 used.    458,8 avail Mem 
+
+  11340 root      20   0   10,4g  10,3g   1560 R 100,0  68,9   1:16.70 mem.bash
+   6336 etozhes+  20   0 4277188 133540  50128 S  20,0   0,8   7:30.53 firefox
+   6613 etozhes+  20   0 2847520  95592  35956 S   6,7   0,6   5:42.71 Isolate+
+      1 root      20   0  169816   4288      4 S   0,0   0,0   0:01.46 systemd
+      2 root      20   0       0      0      0 S   0,0   0,0   0:00.00 kthreadd
+
+19.12.2023 18:05:43
+MiB Mem :  15383,8 total,    155,6 free,  14679,1 used,    549,1 buff/cache
+MiB Swap:   2048,0 total,      0,0 free,   2048,0 used.    363,9 avail Mem 
+
+  11340 root      20   0   10,5g  10,5g   1560 R 100,0  69,8   1:17.88 mem.bash
+    181 root      20   0       0      0      0 S  12,5   0,0   0:09.10 kswapd0
+   6336 etozhes+  20   0 4282704 135176  53428 S  12,5   0,9   7:30.83 firefox
+   6613 etozhes+  20   0 2847520  97632  39320 S   6,2   0,6   5:42.86 Isolate+
+  12259 root      20   0   12132   3892   3164 R   6,2   0,0   0:00.01 top
+
+19.12.2023 18:05:45
+MiB Mem :  15383,8 total,    145,5 free,  14849,0 used,    389,3 buff/cache
+MiB Swap:   2048,0 total,      0,0 free,   2048,0 used.    193,0 avail Mem 
+
+  11340 root      20   0   10,7g  10,7g   1396 R 100,0  70,9   1:19.06 mem.bash
+   2294 etozhes+  20   0 5742424 105528  27644 S  50,0   0,7   3:57.14 gnome-s+
+   6336 etozhes+  20   0 4282704 129828  47684 S  50,0   0,8   7:31.13 firefox
+    181 root      20   0       0      0      0 R   6,2   0,0   0:09.19 kswapd0
+    191 root      20   0       0      0      0 I   6,2   0,0   0:02.28 kworker+
+
+19.12.2023 18:05:46
+MiB Mem :  15383,8 total,    162,9 free,  15001,7 used,    219,3 buff/cache
+MiB Swap:   2048,0 total,      0,0 free,   2048,0 used.     82,2 avail Mem 
+
+  11340 root      20   0   10,8g  10,8g   1372 R  93,8  72,0   1:20.23 mem.bash
+   6336 etozhes+  20   0 4282704  98076  16168 S  18,8   0,6   7:31.37 firefox
+    181 root      20   0       0      0      0 S  12,5   0,0   0:09.30 kswapd0
+   1975 etozhes+   9 -11 4629640   4140   2172 S   6,2   0,0   0:38.15 pulseau+
+   6613 etozhes+  20   0 2847520  73764  15360 S   6,2   0,5   5:42.95 Isolate+
+
+19.12.2023 18:05:48
+MiB Mem :  15383,8 total,   4401,8 free,  10709,9 used,    272,1 buff/cache
+MiB Swap:   2048,0 total,      1,5 free,   2046,5 used.   4347,5 avail Mem 
+
+   8701 etozhes+  20   0   14,3g   1,6g     44 S 100,0  10,6   4:35.97 java
+  11340 root      20   0       0      0      0 R  87,5   0,0   1:21.71 mem.bash
+   6336 etozhes+  20   0 4282704 105556  23112 S  43,8   0,7   7:33.22 firefox
+  11202 etozhes+  20   0   40,4g  11584     72 D  43,8   0,1   0:00.15 chrome
+   5762 etozhes+  20   0  181,3g  63892   7764 S  31,2   0,4   3:08.55 telegra+
+
